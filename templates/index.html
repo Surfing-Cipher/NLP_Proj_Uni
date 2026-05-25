@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart NLP Support Classifier</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="background-mesh"></div>
+    
+    <div class="container">
+        <header>
+            <h1>NLP Ticket Classification</h1>
+            <p>Enter a customer support ticket to instantly classify it and extract linguistic features.</p>
+        </header>
+
+        <main>
+            <div class="input-section glass-panel">
+                <textarea id="ticket-text" placeholder="E.g., I love the new features in version 2.0! Also, I am using Microsoft Windows but my account is locked." rows="5"></textarea>
+                <button id="analyze-btn">
+                    <span>Analyze Ticket</span>
+                    <div class="spinner hidden" id="loading-spinner"></div>
+                </button>
+            </div>
+
+            <div class="results-section hidden" id="results-panel">
+                <div class="result-card category-card glass-panel">
+                    <h3>Predicted Category</h3>
+                    <div class="category-badge" id="category-result">Loading...</div>
+                </div>
+
+                <div class="features-grid">
+                    <div class="result-card glass-panel">
+                        <h3>Named Entities (NER)</h3>
+                        <div class="scroll-box" id="ner-result"></div>
+                    </div>
+
+                    <div class="result-card glass-panel">
+                        <h3>Part-of-Speech (POS)</h3>
+                        <div class="scroll-box" id="pos-result"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.getElementById('analyze-btn').addEventListener('click', async () => {
+            const text = document.getElementById('ticket-text').value;
+            if (!text) return;
+
+            const btn = document.getElementById('analyze-btn');
+            const spinner = document.getElementById('loading-spinner');
+            const resultsPanel = document.getElementById('results-panel');
+            
+            btn.classList.add('loading');
+            spinner.classList.remove('hidden');
+            
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text })
+                });
+                
+                const data = await response.json();
+                
+                if(data.error) {
+                    alert(data.error);
+                    return;
+                }
+
+                // Render Category
+                document.getElementById('category-result').textContent = data.category;
+                
+                // Render NER
+                const nerHtml = data.ner.length > 0 
+                    ? data.ner.map(e => `<span class="tag ner-tag"><span class="entity">${e[0]}</span> <span class="label">${e[1]}</span></span>`).join('')
+                    : '<p class="empty-state">No entities found.</p>';
+                document.getElementById('ner-result').innerHTML = nerHtml;
+
+                // Render POS
+                const posHtml = data.pos_tags.length > 0
+                    ? data.pos_tags.map(p => `<span class="tag pos-tag"><span class="entity">${p[0]}</span> <span class="label">${p[1]}</span></span>`).join('')
+                    : '<p class="empty-state">No POS tags found.</p>';
+                document.getElementById('pos-result').innerHTML = posHtml;
+
+                resultsPanel.classList.remove('hidden');
+                resultsPanel.classList.add('slide-up');
+
+            } catch (err) {
+                console.error(err);
+                alert("An error occurred during prediction.");
+            } finally {
+                btn.classList.remove('loading');
+                spinner.classList.add('hidden');
+            }
+        });
+    </script>
+</body>
+</html>
