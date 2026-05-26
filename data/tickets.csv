@@ -1,0 +1,501 @@
+text,category,sentiment
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"I love the new features in version 2.0! Also, I am using Microsoft.",Product Inquiry,Positive
+I forgot my password and the reset link is not working.,Account Access,Negative
+"Someone is trying to log into my account from another country! Also, I am using Jane Smith.",Account Access,Negative
+"The app is so fast now after the update, amazing work! Also, I am using Microsoft.",Technical Support,Positive
+How do I configure the server settings?,Technical Support,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+"My account is locked, please help me regain access.",Account Access,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+I forgot my password and the reset link is not working.,Account Access,Negative
+"I successfully updated my profile, thanks.",Account Access,Positive
+"My account is locked, please help me regain access. Also, I am using Microsoft.",Account Access,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+"Someone is trying to log into my account from another country! Also, I am using London.",Account Access,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"I need help with my invoice. The amount seems incorrect. Also, I am using London.",Billing,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+I am getting an error code 500 when I log in.,Technical Support,Negative
+I forgot my password and the reset link is not working.,Account Access,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+I love the new features in version 2.0!,Product Inquiry,Positive
+Why was I charged twice for my subscription?,Billing,Negative
+"I successfully updated my profile, thanks.",Account Access,Positive
+"Your website is down and I cannot access my dashboard! Also, I am using London.",Technical Support,Negative
+I would like to update my credit card information.,Billing,Neutral
+How can I change my email address?,Account Access,Neutral
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+"I successfully updated my profile, thanks.",Account Access,Positive
+"Thank you for refunding my overcharge so quickly! Also, I am using Google.",Billing,Positive
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+"I successfully updated my profile, thanks. Also, I am using Jane Smith.",Account Access,Positive
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Is there a discount for students?,Product Inquiry,Neutral
+"My software keeps crashing when I try to open a new file. Also, I am using Jane Smith.",Technical Support,Negative
+I forgot my password and the reset link is not working.,Account Access,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+How do I configure the server settings?,Technical Support,Neutral
+How can I change my email address?,Account Access,Neutral
+"I am getting an error code 500 when I log in. Also, I am using Apple.",Technical Support,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"I need help with my invoice. The amount seems incorrect. Also, I am using Google.",Billing,Negative
+How do I configure the server settings?,Technical Support,Neutral
+"I need help with my invoice. The amount seems incorrect. Also, I am using New York.",Billing,Negative
+How do I configure the server settings?,Technical Support,Neutral
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+Someone is trying to log into my account from another country!,Account Access,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+How do I configure the server settings?,Technical Support,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+"My account is locked, please help me regain access.",Account Access,Negative
+How can I change my email address?,Account Access,Neutral
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+"When will the new hardware be available for purchase? Also, I am using Microsoft.",Product Inquiry,Neutral
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+"I love the new features in version 2.0! Also, I am using John Doe.",Product Inquiry,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"My account is locked, please help me regain access.",Account Access,Negative
+"I forgot my password and the reset link is not working. Also, I am using New York.",Account Access,Negative
+I forgot my password and the reset link is not working.,Account Access,Negative
+"When will the new hardware be available for purchase? Also, I am using New York.",Product Inquiry,Neutral
+"Why was I charged twice for my subscription? Also, I am using Google.",Billing,Negative
+How do I configure the server settings?,Technical Support,Neutral
+I would like to update my credit card information.,Billing,Neutral
+How do I configure the server settings?,Technical Support,Neutral
+"My account is locked, please help me regain access.",Account Access,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"Someone is trying to log into my account from another country! Also, I am using New York.",Account Access,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+"I would like to update my credit card information. Also, I am using Jane Smith.",Billing,Neutral
+I forgot my password and the reset link is not working.,Account Access,Negative
+I would like to update my credit card information.,Billing,Neutral
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+"How do I configure the server settings? Also, I am using Microsoft.",Technical Support,Neutral
+"Does the enterprise plan include 24/7 support? Also, I am using Jane Smith.",Product Inquiry,Neutral
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+"I would like to update my credit card information. Also, I am using New York.",Billing,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"Does the enterprise plan include 24/7 support? Also, I am using London.",Product Inquiry,Neutral
+I love the new features in version 2.0!,Product Inquiry,Positive
+I would like to update my credit card information.,Billing,Neutral
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+Why was I charged twice for my subscription?,Billing,Negative
+I am getting an error code 500 when I log in.,Technical Support,Negative
+"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+Is there a discount for students?,Product Inquiry,Neutral
+Is there a discount for students?,Product Inquiry,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+How can I change my email address?,Account Access,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+Is there a discount for students?,Product Inquiry,Neutral
+"I need help with my invoice. The amount seems incorrect. Also, I am using New York.",Billing,Negative
+Is there a discount for students?,Product Inquiry,Neutral
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"The app is so fast now after the update, amazing work! Also, I am using John Doe.",Technical Support,Positive
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+How can I change my email address?,Account Access,Neutral
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"Is there a discount for students? Also, I am using London.",Product Inquiry,Neutral
+"I successfully updated my profile, thanks.",Account Access,Positive
+"Does the enterprise plan include 24/7 support? Also, I am using Jane Smith.",Product Inquiry,Neutral
+I would like to update my credit card information.,Billing,Neutral
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+Is there a discount for students?,Product Inquiry,Neutral
+How can I change my email address?,Account Access,Neutral
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"I forgot my password and the reset link is not working. Also, I am using New York.",Account Access,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+"My account is locked, please help me regain access.",Account Access,Negative
+"I need help with my invoice. The amount seems incorrect. Also, I am using Jane Smith.",Billing,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"I am getting an error code 500 when I log in. Also, I am using Google.",Technical Support,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+"I love the new features in version 2.0! Also, I am using Microsoft.",Product Inquiry,Positive
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+"My account is locked, please help me regain access. Also, I am using London.",Account Access,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Why was I charged twice for my subscription?,Billing,Negative
+"How do I configure the server settings? Also, I am using New York.",Technical Support,Neutral
+How do I configure the server settings?,Technical Support,Neutral
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+"When will the new hardware be available for purchase? Also, I am using Microsoft.",Product Inquiry,Neutral
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+I forgot my password and the reset link is not working.,Account Access,Negative
+"My account is locked, please help me regain access.",Account Access,Negative
+How can I change my email address?,Account Access,Neutral
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+How can I change my email address?,Account Access,Neutral
+"Can you explain the charges on my latest bill? It's confusing. Also, I am using London.",Billing,Negative
+Why was I charged twice for my subscription?,Billing,Negative
+"My account is locked, please help me regain access. Also, I am using London.",Account Access,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+"I need help with my invoice. The amount seems incorrect. Also, I am using Amazon.",Billing,Negative
+"I forgot my password and the reset link is not working. Also, I am using Jane Smith.",Account Access,Negative
+"How can I change my email address? Also, I am using London.",Account Access,Neutral
+"I successfully updated my profile, thanks.",Account Access,Positive
+How do I configure the server settings?,Technical Support,Neutral
+"Someone is trying to log into my account from another country! Also, I am using Google.",Account Access,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"I forgot my password and the reset link is not working. Also, I am using Google.",Account Access,Negative
+"I successfully updated my profile, thanks.",Account Access,Positive
+"My account is locked, please help me regain access. Also, I am using Amazon.",Account Access,Negative
+"The app is so fast now after the update, amazing work! Also, I am using John Doe.",Technical Support,Positive
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"Your website is down and I cannot access my dashboard! Also, I am using Jane Smith.",Technical Support,Negative
+How do I configure the server settings?,Technical Support,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"When will the new hardware be available for purchase? Also, I am using Google.",Product Inquiry,Neutral
+I love the new features in version 2.0!,Product Inquiry,Positive
+I love the new features in version 2.0!,Product Inquiry,Positive
+"Why was I charged twice for my subscription? Also, I am using Microsoft.",Billing,Negative
+"Can you explain the charges on my latest bill? It's confusing. Also, I am using New York.",Billing,Negative
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Is there a discount for students?,Product Inquiry,Neutral
+"Your website is down and I cannot access my dashboard! Also, I am using Microsoft.",Technical Support,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+How can I change my email address?,Account Access,Neutral
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+How can I change my email address?,Account Access,Neutral
+I love the new features in version 2.0!,Product Inquiry,Positive
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"How do I configure the server settings? Also, I am using Microsoft.",Technical Support,Neutral
+"How can I change my email address? Also, I am using John Doe.",Account Access,Neutral
+How can I change my email address?,Account Access,Neutral
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+I forgot my password and the reset link is not working.,Account Access,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"Thank you for refunding my overcharge so quickly! Also, I am using Jane Smith.",Billing,Positive
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+"How can I change my email address? Also, I am using Microsoft.",Account Access,Neutral
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+I am getting an error code 500 when I log in.,Technical Support,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+I would like to update my credit card information.,Billing,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"My software keeps crashing when I try to open a new file. Also, I am using Amazon.",Technical Support,Negative
+"I successfully updated my profile, thanks.",Account Access,Positive
+"How can I change my email address? Also, I am using Apple.",Account Access,Neutral
+I love the new features in version 2.0!,Product Inquiry,Positive
+"I forgot my password and the reset link is not working. Also, I am using London.",Account Access,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"Does the enterprise plan include 24/7 support? Also, I am using Microsoft.",Product Inquiry,Neutral
+Why was I charged twice for my subscription?,Billing,Negative
+How do I configure the server settings?,Technical Support,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"Thank you for refunding my overcharge so quickly! Also, I am using Jane Smith.",Billing,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+"My software keeps crashing when I try to open a new file. Also, I am using Google.",Technical Support,Negative
+I would like to update my credit card information.,Billing,Neutral
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+"I love the new features in version 2.0! Also, I am using Google.",Product Inquiry,Positive
+I forgot my password and the reset link is not working.,Account Access,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+"I love the new features in version 2.0! Also, I am using Apple.",Product Inquiry,Positive
+Why was I charged twice for my subscription?,Billing,Negative
+"My account is locked, please help me regain access.",Account Access,Negative
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"Is there a discount for students? Also, I am using New York.",Product Inquiry,Neutral
+"I successfully updated my profile, thanks.",Account Access,Positive
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+"My account is locked, please help me regain access. Also, I am using Google.",Account Access,Negative
+"How can I change my email address? Also, I am using Jane Smith.",Account Access,Neutral
+How do I configure the server settings?,Technical Support,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+How can I change my email address?,Account Access,Neutral
+"Your website is down and I cannot access my dashboard! Also, I am using Google.",Technical Support,Negative
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+How can I change my email address?,Account Access,Neutral
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+I forgot my password and the reset link is not working.,Account Access,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+"I love the new features in version 2.0! Also, I am using Apple.",Product Inquiry,Positive
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+"How do I configure the server settings? Also, I am using John Doe.",Technical Support,Neutral
+I love the new features in version 2.0!,Product Inquiry,Positive
+"My account is locked, please help me regain access.",Account Access,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+Is there a discount for students?,Product Inquiry,Neutral
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+How do I configure the server settings?,Technical Support,Neutral
+"Your website is down and I cannot access my dashboard! Also, I am using John Doe.",Technical Support,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"Is there a discount for students? Also, I am using Microsoft.",Product Inquiry,Neutral
+"I am getting an error code 500 when I log in. Also, I am using London.",Technical Support,Negative
+How do I configure the server settings?,Technical Support,Neutral
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+How do I configure the server settings?,Technical Support,Neutral
+"I need help with my invoice. The amount seems incorrect. Also, I am using Jane Smith.",Billing,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+I would like to update my credit card information.,Billing,Neutral
+"I successfully updated my profile, thanks.",Account Access,Positive
+How can I change my email address?,Account Access,Neutral
+I would like to update my credit card information.,Billing,Neutral
+"How do I configure the server settings? Also, I am using Jane Smith.",Technical Support,Neutral
+"I successfully updated my profile, thanks.",Account Access,Positive
+"How can I change my email address? Also, I am using Microsoft.",Account Access,Neutral
+I love the new features in version 2.0!,Product Inquiry,Positive
+I would like to update my credit card information.,Billing,Neutral
+I love the new features in version 2.0!,Product Inquiry,Positive
+How can I change my email address?,Account Access,Neutral
+Someone is trying to log into my account from another country!,Account Access,Negative
+"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
+I would like to update my credit card information.,Billing,Neutral
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+I love the new features in version 2.0!,Product Inquiry,Positive
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
+"I forgot my password and the reset link is not working. Also, I am using Amazon.",Account Access,Negative
+"When will the new hardware be available for purchase? Also, I am using John Doe.",Product Inquiry,Neutral
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+Is there a discount for students?,Product Inquiry,Neutral
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+I am getting an error code 500 when I log in.,Technical Support,Negative
+"I successfully updated my profile, thanks.",Account Access,Positive
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"The product description is very misleading, I am disappointed. Also, I am using Jane Smith.",Product Inquiry,Negative
+How do I configure the server settings?,Technical Support,Neutral
+"The app is so fast now after the update, amazing work! Also, I am using Google.",Technical Support,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+I would like to update my credit card information.,Billing,Neutral
+"Your website is down and I cannot access my dashboard! Also, I am using Microsoft.",Technical Support,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+Someone is trying to log into my account from another country!,Account Access,Negative
+"Your website is down and I cannot access my dashboard! Also, I am using London.",Technical Support,Negative
+"My account is locked, please help me regain access. Also, I am using London.",Account Access,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Is there a discount for students?,Product Inquiry,Neutral
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"I forgot my password and the reset link is not working. Also, I am using John Doe.",Account Access,Negative
+I am getting an error code 500 when I log in.,Technical Support,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+I would like to update my credit card information.,Billing,Neutral
+"Why was I charged twice for my subscription? Also, I am using Apple.",Billing,Negative
+"I am getting an error code 500 when I log in. Also, I am using New York.",Technical Support,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"Someone is trying to log into my account from another country! Also, I am using Apple.",Account Access,Negative
+I am getting an error code 500 when I log in.,Technical Support,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+"I need help with my invoice. The amount seems incorrect. Also, I am using Amazon.",Billing,Negative
+I would like to update my credit card information.,Billing,Neutral
+"My software keeps crashing when I try to open a new file. Also, I am using London.",Technical Support,Negative
+Why was I charged twice for my subscription?,Billing,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"Can you explain the charges on my latest bill? It's confusing. Also, I am using Apple.",Billing,Negative
+How can I change my email address?,Account Access,Neutral
+Someone is trying to log into my account from another country!,Account Access,Negative
+I am getting an error code 500 when I log in.,Technical Support,Negative
+"Does the enterprise plan include 24/7 support? Also, I am using John Doe.",Product Inquiry,Neutral
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"I successfully updated my profile, thanks.",Account Access,Positive
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Why was I charged twice for my subscription?,Billing,Negative
+"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+I am getting an error code 500 when I log in.,Technical Support,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"Can you explain the charges on my latest bill? It's confusing. Also, I am using John Doe.",Billing,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+"I successfully updated my profile, thanks.",Account Access,Positive
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"I would like to update my credit card information. Also, I am using London.",Billing,Neutral
+How do I configure the server settings?,Technical Support,Neutral
+How can I change my email address?,Account Access,Neutral
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"My account is locked, please help me regain access. Also, I am using Google.",Account Access,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+Is there a discount for students?,Product Inquiry,Neutral
+"The product description is very misleading, I am disappointed. Also, I am using Jane Smith.",Product Inquiry,Negative
+I would like to update my credit card information.,Billing,Neutral
+I forgot my password and the reset link is not working.,Account Access,Negative
+"My account is locked, please help me regain access.",Account Access,Negative
+"I am getting an error code 500 when I log in. Also, I am using John Doe.",Technical Support,Negative
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"I successfully updated my profile, thanks. Also, I am using Jane Smith.",Account Access,Positive
+"I successfully updated my profile, thanks.",Account Access,Positive
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+I would like to update my credit card information.,Billing,Neutral
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"Your website is down and I cannot access my dashboard! Also, I am using New York.",Technical Support,Negative
+How can I change my email address?,Account Access,Neutral
+Is there a discount for students?,Product Inquiry,Neutral
+How do I configure the server settings?,Technical Support,Neutral
+I would like to update my credit card information.,Billing,Neutral
+"My software keeps crashing when I try to open a new file. Also, I am using Microsoft.",Technical Support,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+I am getting an error code 500 when I log in.,Technical Support,Negative
+Why was I charged twice for my subscription?,Billing,Negative
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+"I need help with my invoice. The amount seems incorrect. Also, I am using Microsoft.",Billing,Negative
+I am getting an error code 500 when I log in.,Technical Support,Negative
+"Can you explain the charges on my latest bill? It's confusing. Also, I am using Amazon.",Billing,Negative
+"I successfully updated my profile, thanks. Also, I am using Apple.",Account Access,Positive
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+"I successfully updated my profile, thanks. Also, I am using John Doe.",Account Access,Positive
+How do I configure the server settings?,Technical Support,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"My account is locked, please help me regain access. Also, I am using Microsoft.",Account Access,Negative
+I forgot my password and the reset link is not working.,Account Access,Negative
+I love the new features in version 2.0!,Product Inquiry,Positive
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"Can you explain the charges on my latest bill? It's confusing. Also, I am using New York.",Billing,Negative
+"I successfully updated my profile, thanks. Also, I am using Microsoft.",Account Access,Positive
+Why was I charged twice for my subscription?,Billing,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+Is there a discount for students?,Product Inquiry,Neutral
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+I am getting an error code 500 when I log in.,Technical Support,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+"I love the new features in version 2.0! Also, I am using Microsoft.",Product Inquiry,Positive
+Why was I charged twice for my subscription?,Billing,Negative
+"The product description is very misleading, I am disappointed. Also, I am using Microsoft.",Product Inquiry,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+"Is there a discount for students? Also, I am using Google.",Product Inquiry,Neutral
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+"I successfully updated my profile, thanks.",Account Access,Positive
+How do I configure the server settings?,Technical Support,Neutral
+I forgot my password and the reset link is not working.,Account Access,Negative
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+Someone is trying to log into my account from another country!,Account Access,Negative
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+Thank you for refunding my overcharge so quickly!,Billing,Positive
+"Your website is down and I cannot access my dashboard! Also, I am using Amazon.",Technical Support,Negative
+Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+Why was I charged twice for my subscription?,Billing,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"The product description is very misleading, I am disappointed. Also, I am using Google.",Product Inquiry,Negative
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"Why was I charged twice for my subscription? Also, I am using New York.",Billing,Negative
+I forgot my password and the reset link is not working.,Account Access,Negative
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"I am getting an error code 500 when I log in. Also, I am using Jane Smith.",Technical Support,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+I would like to update my credit card information.,Billing,Neutral
+I would like to update my credit card information.,Billing,Neutral
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+How can I change my email address?,Account Access,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+How can I change my email address?,Account Access,Neutral
+"Does the enterprise plan include 24/7 support? Also, I am using John Doe.",Product Inquiry,Neutral
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+When will the new hardware be available for purchase?,Product Inquiry,Neutral
+"The app is so fast now after the update, amazing work! Also, I am using Google.",Technical Support,Positive
+"My account is locked, please help me regain access.",Account Access,Negative
+Is there a discount for students?,Product Inquiry,Neutral
+"I am getting an error code 500 when I log in. Also, I am using Jane Smith.",Technical Support,Negative
+How can I change my email address?,Account Access,Neutral
+I forgot my password and the reset link is not working.,Account Access,Negative
+"My account is locked, please help me regain access.",Account Access,Negative
+"Can you explain the charges on my latest bill? It's confusing. Also, I am using Microsoft.",Billing,Negative
+Someone is trying to log into my account from another country!,Account Access,Negative
+Is there a discount for students?,Product Inquiry,Neutral
+How do I configure the server settings?,Technical Support,Neutral
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+I love the new features in version 2.0!,Product Inquiry,Positive
+I love the new features in version 2.0!,Product Inquiry,Positive
+"Someone is trying to log into my account from another country! Also, I am using London.",Account Access,Negative
+"Someone is trying to log into my account from another country! Also, I am using Amazon.",Account Access,Negative
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"I successfully updated my profile, thanks. Also, I am using Jane Smith.",Account Access,Positive
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"How can I change my email address? Also, I am using Google.",Account Access,Neutral
+How do I configure the server settings?,Technical Support,Neutral
+Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
+"How can I change my email address? Also, I am using Jane Smith.",Account Access,Neutral
+"I successfully updated my profile, thanks.",Account Access,Positive
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"I successfully updated my profile, thanks. Also, I am using New York.",Account Access,Positive
+"The app is so fast now after the update, amazing work!",Technical Support,Positive
+Why was I charged twice for my subscription?,Billing,Negative
+Why was I charged twice for my subscription?,Billing,Negative
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
+How do I configure the server settings?,Technical Support,Neutral
+My software keeps crashing when I try to open a new file.,Technical Support,Negative
+"Is there a discount for students? Also, I am using New York.",Product Inquiry,Neutral
+I need help with my invoice. The amount seems incorrect.,Billing,Negative
+How can I change my email address?,Account Access,Neutral
+Your website is down and I cannot access my dashboard!,Technical Support,Negative
+I forgot my password and the reset link is not working.,Account Access,Negative

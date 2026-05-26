@@ -7,7 +7,4 @@ env/
 venv/
 .env
 .venv/
-models/
-results/
-data/
 .ipynb_checkpoints

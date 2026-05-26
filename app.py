@@ -2,6 +2,8 @@ import os
 import joblib
 from flask import Flask, render_template, request, jsonify
 import spacy
+import pandas as pd
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 # Ensure we can import from src directory
 import sys
@@ -25,6 +27,9 @@ try:
 except Exception as e:
     print(f"Error loading models: {e}")
     clf = None
+
+# Initialize Sentiment Analyzer
+sia = SentimentIntensityAnalyzer()
 
 @app.route('/')
 def index():
@@ -50,10 +55,36 @@ def predict():
         prediction = clf.predict([cleaned])
         category = prediction[0]
         
+    # Analyze Sentiment
+    scores = sia.polarity_scores(text)
+    compound = scores['compound']
+    if compound >= 0.05:
+        sentiment = "Positive"
+    elif compound <= -0.05:
+        sentiment = "Negative"
+    else:
+        sentiment = "Neutral"
+        
     return jsonify({
         'category': category,
+        'sentiment': sentiment,
         'pos_tags': features['pos_tags'],
         'ner': features['ner']
+    })
+
+@app.route('/api/stats')
+def stats():
+    data_path = os.path.join('data', 'tickets.csv')
+    if not os.path.exists(data_path):
+        return jsonify({'error': 'No dataset found'}), 404
+        
+    df = pd.read_csv(data_path)
+    cat_counts = df['category'].value_counts().to_dict()
+    sent_counts = df['sentiment'].value_counts().to_dict()
+    
+    return jsonify({
+        'categories': cat_counts,
+        'sentiments': sent_counts
     })
 
 if __name__ == '__main__':

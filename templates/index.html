@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
@@ -29,8 +30,14 @@
 
             <div class="results-section hidden" id="results-panel">
                 <div class="result-card category-card glass-panel">
-                    <h3>Predicted Category</h3>
-                    <div class="category-badge" id="category-result">Loading...</div>
+                    <div>
+                        <h3>Predicted Category</h3>
+                        <div class="category-badge" id="category-result">Loading...</div>
+                    </div>
+                    <div>
+                        <h3>Sentiment</h3>
+                        <div class="category-badge badge-neutral" id="sentiment-result">Loading...</div>
+                    </div>
                 </div>
 
                 <div class="features-grid">
@@ -42,6 +49,20 @@
                     <div class="result-card glass-panel">
                         <h3>Part-of-Speech (POS)</h3>
                         <div class="scroll-box" id="pos-result"></div>
+                    </div>
+                </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="analytics-section glass-panel" id="analytics-panel">
+                <h2>Dataset Analytics</h2>
+                <div class="charts-grid">
+                    <div class="chart-container">
+                        <canvas id="categoryChart"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="sentimentChart"></canvas>
                     </div>
                 </div>
             </div>
@@ -74,8 +95,15 @@
                     return;
                 }
 
-                // Render Category
+                // Render Category & Sentiment
                 document.getElementById('category-result').textContent = data.category;
+                
+                const sentEl = document.getElementById('sentiment-result');
+                sentEl.textContent = data.sentiment;
+                sentEl.className = 'category-badge';
+                if(data.sentiment === 'Positive') sentEl.classList.add('badge-positive');
+                else if(data.sentiment === 'Negative') sentEl.classList.add('badge-negative');
+                else sentEl.classList.add('badge-neutral');
                 
                 // Render NER
                 const nerHtml = data.ner.length > 0 
@@ -100,6 +128,60 @@
                 spinner.classList.add('hidden');
             }
         });
+
+        // Load Analytics Data
+        async function loadAnalytics() {
+            try {
+                const response = await fetch('/api/stats');
+                if(!response.ok) return;
+                const data = await response.json();
+
+                // Category Chart
+                const ctxCat = document.getElementById('categoryChart').getContext('2d');
+                new Chart(ctxCat, {
+                    type: 'pie',
+                    data: {
+                        labels: Object.keys(data.categories),
+                        datasets: [{
+                            data: Object.values(data.categories),
+                            backgroundColor: ['#6366f1', '#8b5cf6', '#ec4899', '#f43f5e']
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            legend: { position: 'bottom', labels: { color: '#f8fafc' } },
+                            title: { display: true, text: 'Ticket Categories', color: '#f8fafc' }
+                        }
+                    }
+                });
+
+                // Sentiment Chart
+                const ctxSent = document.getElementById('sentimentChart').getContext('2d');
+                new Chart(ctxSent, {
+                    type: 'doughnut',
+                    data: {
+                        labels: Object.keys(data.sentiments),
+                        datasets: [{
+                            data: Object.values(data.sentiments),
+                            backgroundColor: ['#10b981', '#f59e0b', '#ef4444']
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            legend: { position: 'bottom', labels: { color: '#f8fafc' } },
+                            title: { display: true, text: 'Ticket Sentiments', color: '#f8fafc' }
+                        }
+                    }
+                });
+
+            } catch (err) {
+                console.error("Failed to load analytics", err);
+            }
+        }
+        
+        loadAnalytics();
     </script>
 </body>
 </html>
