@@ -21,8 +21,8 @@ class TextDataset(Dataset):
     def __len__(self):
         return len(self.texts)
     
-    def __getitem__(self, idx):
-        text = self.texts.iloc[idx]
+    def __getitem__(self, index):
+        text = self.texts.iloc[index]
         tokens = text.split()
         
         # Tokenize and Pad
@@ -30,7 +30,7 @@ class TextDataset(Dataset):
         padding = [self.vocab['<PAD>']] * (self.max_len - len(token_ids))
         token_ids.extend(padding)
         
-        return torch.tensor(token_ids, dtype=torch.long), torch.tensor(self.labels.iloc[idx], dtype=torch.long)
+        return torch.tensor(token_ids, dtype=torch.long), torch.tensor(self.labels.iloc[index], dtype=torch.long)
 
 # 2. Build Vocabulary
 def build_vocab(texts, max_size=5000):

@@ -5,11 +5,7 @@ import spacy
 import pandas as pd
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
-# Ensure we can import from src directory
-import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
-
-from preprocessing import extract_linguistic_features, clean_text
+from src.preprocessing import extract_linguistic_features, clean_text
 
 app = Flask(__name__)
 
