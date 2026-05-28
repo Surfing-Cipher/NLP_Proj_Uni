@@ -45,20 +45,22 @@ def build_vocab(texts, max_size=5000):
 
 # 3. Define Bi-LSTM Architecture
 class BiLSTMClassifier(nn.Module):
-    def __init__(self, vocab_size, embed_dim, hidden_dim, num_classes):
+    def __init__(self, vocab_size, embed_dim, hidden_dim, num_classes, dropout=0.3):
         super(BiLSTMClassifier, self).__init__()
         self.embedding = nn.Embedding(vocab_size, embed_dim, padding_idx=0)
+        self.dropout = nn.Dropout(p=dropout)
         # Bi-LSTM Layer as requested in methodology
         self.lstm = nn.LSTM(embed_dim, hidden_dim, batch_first=True, bidirectional=True)
         # The output size is hidden_dim * 2 because it's bidirectional
         self.fc = nn.Linear(hidden_dim * 2, num_classes)
         
     def forward(self, x):
-        embedded = self.embedding(x)
+        embedded = self.dropout(self.embedding(x))
         lstm_out, (hidden, cell) = self.lstm(embedded)
         
         # Concat the final forward and backward hidden states
         hidden_cat = torch.cat((hidden[-2,:,:], hidden[-1,:,:]), dim=1)
+        hidden_cat = self.dropout(hidden_cat)
         out = self.fc(hidden_cat)
         return out
 
@@ -76,26 +78,35 @@ def train_and_evaluate_dl(df):
     X = df['cleaned_text']
     y = df['encoded_cat']
     
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_temp, X_test, y_temp, y_test = train_test_split(X, y, test_size=0.15, random_state=42)
+    X_train, X_val, y_train, y_val = train_test_split(X_temp, y_temp, test_size=0.15, random_state=42)
     
     # Vocab and Datasets
     vocab = build_vocab(X_train)
     vocab_size = len(vocab)
     
     train_dataset = TextDataset(X_train, y_train, vocab)
+    val_dataset = TextDataset(X_val, y_val, vocab)
     test_dataset = TextDataset(X_test, y_test, vocab)
     
     train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
+    val_loader = DataLoader(val_dataset, batch_size=16, shuffle=False)
     test_loader = DataLoader(test_dataset, batch_size=16, shuffle=False)
     
     # Model Setup
     model = BiLSTMClassifier(vocab_size=vocab_size, embed_dim=100, hidden_dim=64, num_classes=len(classes))
     criterion = nn.CrossEntropyLoss()
-    optimizer = optim.Adam(model.parameters(), lr=0.001)
+    # L2 Regularization
+    optimizer = optim.Adam(model.parameters(), lr=0.001, weight_decay=1e-5)
     
-    # Training Loop (1 Epoch for demonstration to save time)
-    epochs = 3
-    print("Training Deep Learning Model...")
+    # Training Loop with Early Stopping
+    epochs = 15
+    patience = 2
+    best_val_loss = float('inf')
+    epochs_no_improve = 0
+    os.makedirs('models', exist_ok=True)
+    
+    print("Training Deep Learning Model with Early Stopping...")
     for epoch in range(epochs):
         model.train()
         total_loss = 0
@@ -107,7 +118,31 @@ def train_and_evaluate_dl(df):
             optimizer.step()
             total_loss += loss.item()
             
-        print(f"Epoch {epoch+1}/{epochs} | Loss: {total_loss/len(train_loader):.4f}")
+        # Validation Phase
+        model.eval()
+        val_loss = 0
+        with torch.no_grad():
+            for batch_x, batch_y in val_loader:
+                predictions = model(batch_x)
+                loss = criterion(predictions, batch_y)
+                val_loss += loss.item()
+                
+        avg_train_loss = total_loss/len(train_loader)
+        avg_val_loss = val_loss/len(val_loader)
+        print(f"Epoch {epoch+1}/{epochs} | Train Loss: {avg_train_loss:.4f} | Val Loss: {avg_val_loss:.4f}")
+        
+        if avg_val_loss < best_val_loss:
+            best_val_loss = avg_val_loss
+            epochs_no_improve = 0
+            torch.save(model.state_dict(), 'models/bilstm.pt')
+        else:
+            epochs_no_improve += 1
+            if epochs_no_improve >= patience:
+                print(f"Early stopping triggered after {epoch+1} epochs!")
+                break
+                
+    # Load best model for testing
+    model.load_state_dict(torch.load('models/bilstm.pt'))
     
     # Evaluation
     model.eval()

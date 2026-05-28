@@ -1,501 +1,2001 @@
 text,category,sentiment
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"I love the new features in version 2.0! Also, I am using Microsoft.",Product Inquiry,Positive
-I forgot my password and the reset link is not working.,Account Access,Negative
-"Someone is trying to log into my account from another country! Also, I am using Jane Smith.",Account Access,Negative
-"The app is so fast now after the update, amazing work! Also, I am using Microsoft.",Technical Support,Positive
-How do I configure the server settings?,Technical Support,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-"My account is locked, please help me regain access.",Account Access,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-I forgot my password and the reset link is not working.,Account Access,Negative
-"I successfully updated my profile, thanks.",Account Access,Positive
-"My account is locked, please help me regain access. Also, I am using Microsoft.",Account Access,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-"Someone is trying to log into my account from another country! Also, I am using London.",Account Access,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"I need help with my invoice. The amount seems incorrect. Also, I am using London.",Billing,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-I am getting an error code 500 when I log in.,Technical Support,Negative
-I forgot my password and the reset link is not working.,Account Access,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-I love the new features in version 2.0!,Product Inquiry,Positive
-Why was I charged twice for my subscription?,Billing,Negative
-"I successfully updated my profile, thanks.",Account Access,Positive
-"Your website is down and I cannot access my dashboard! Also, I am using London.",Technical Support,Negative
-I would like to update my credit card information.,Billing,Neutral
-How can I change my email address?,Account Access,Neutral
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-"I successfully updated my profile, thanks.",Account Access,Positive
-"Thank you for refunding my overcharge so quickly! Also, I am using Google.",Billing,Positive
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-"I successfully updated my profile, thanks. Also, I am using Jane Smith.",Account Access,Positive
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Is there a discount for students?,Product Inquiry,Neutral
-"My software keeps crashing when I try to open a new file. Also, I am using Jane Smith.",Technical Support,Negative
-I forgot my password and the reset link is not working.,Account Access,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-How do I configure the server settings?,Technical Support,Neutral
-How can I change my email address?,Account Access,Neutral
-"I am getting an error code 500 when I log in. Also, I am using Apple.",Technical Support,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"I need help with my invoice. The amount seems incorrect. Also, I am using Google.",Billing,Negative
-How do I configure the server settings?,Technical Support,Neutral
-"I need help with my invoice. The amount seems incorrect. Also, I am using New York.",Billing,Negative
-How do I configure the server settings?,Technical Support,Neutral
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-Someone is trying to log into my account from another country!,Account Access,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-How do I configure the server settings?,Technical Support,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-"My account is locked, please help me regain access.",Account Access,Negative
-How can I change my email address?,Account Access,Neutral
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-"When will the new hardware be available for purchase? Also, I am using Microsoft.",Product Inquiry,Neutral
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-"I love the new features in version 2.0! Also, I am using John Doe.",Product Inquiry,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"My account is locked, please help me regain access.",Account Access,Negative
-"I forgot my password and the reset link is not working. Also, I am using New York.",Account Access,Negative
-I forgot my password and the reset link is not working.,Account Access,Negative
-"When will the new hardware be available for purchase? Also, I am using New York.",Product Inquiry,Neutral
-"Why was I charged twice for my subscription? Also, I am using Google.",Billing,Negative
-How do I configure the server settings?,Technical Support,Neutral
-I would like to update my credit card information.,Billing,Neutral
-How do I configure the server settings?,Technical Support,Neutral
-"My account is locked, please help me regain access.",Account Access,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"Someone is trying to log into my account from another country! Also, I am using New York.",Account Access,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-"I would like to update my credit card information. Also, I am using Jane Smith.",Billing,Neutral
-I forgot my password and the reset link is not working.,Account Access,Negative
-I would like to update my credit card information.,Billing,Neutral
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-"How do I configure the server settings? Also, I am using Microsoft.",Technical Support,Neutral
-"Does the enterprise plan include 24/7 support? Also, I am using Jane Smith.",Product Inquiry,Neutral
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-"I would like to update my credit card information. Also, I am using New York.",Billing,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"Does the enterprise plan include 24/7 support? Also, I am using London.",Product Inquiry,Neutral
-I love the new features in version 2.0!,Product Inquiry,Positive
-I would like to update my credit card information.,Billing,Neutral
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-Why was I charged twice for my subscription?,Billing,Negative
-I am getting an error code 500 when I log in.,Technical Support,Negative
-"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-Is there a discount for students?,Product Inquiry,Neutral
-Is there a discount for students?,Product Inquiry,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-How can I change my email address?,Account Access,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-Is there a discount for students?,Product Inquiry,Neutral
-"I need help with my invoice. The amount seems incorrect. Also, I am using New York.",Billing,Negative
-Is there a discount for students?,Product Inquiry,Neutral
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"The app is so fast now after the update, amazing work! Also, I am using John Doe.",Technical Support,Positive
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-How can I change my email address?,Account Access,Neutral
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"Is there a discount for students? Also, I am using London.",Product Inquiry,Neutral
-"I successfully updated my profile, thanks.",Account Access,Positive
-"Does the enterprise plan include 24/7 support? Also, I am using Jane Smith.",Product Inquiry,Neutral
-I would like to update my credit card information.,Billing,Neutral
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-Is there a discount for students?,Product Inquiry,Neutral
-How can I change my email address?,Account Access,Neutral
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"I forgot my password and the reset link is not working. Also, I am using New York.",Account Access,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-"My account is locked, please help me regain access.",Account Access,Negative
-"I need help with my invoice. The amount seems incorrect. Also, I am using Jane Smith.",Billing,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"I am getting an error code 500 when I log in. Also, I am using Google.",Technical Support,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-"I love the new features in version 2.0! Also, I am using Microsoft.",Product Inquiry,Positive
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-"My account is locked, please help me regain access. Also, I am using London.",Account Access,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Why was I charged twice for my subscription?,Billing,Negative
-"How do I configure the server settings? Also, I am using New York.",Technical Support,Neutral
-How do I configure the server settings?,Technical Support,Neutral
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-"When will the new hardware be available for purchase? Also, I am using Microsoft.",Product Inquiry,Neutral
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-I forgot my password and the reset link is not working.,Account Access,Negative
-"My account is locked, please help me regain access.",Account Access,Negative
-How can I change my email address?,Account Access,Neutral
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-How can I change my email address?,Account Access,Neutral
-"Can you explain the charges on my latest bill? It's confusing. Also, I am using London.",Billing,Negative
-Why was I charged twice for my subscription?,Billing,Negative
-"My account is locked, please help me regain access. Also, I am using London.",Account Access,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-"I need help with my invoice. The amount seems incorrect. Also, I am using Amazon.",Billing,Negative
-"I forgot my password and the reset link is not working. Also, I am using Jane Smith.",Account Access,Negative
-"How can I change my email address? Also, I am using London.",Account Access,Neutral
-"I successfully updated my profile, thanks.",Account Access,Positive
-How do I configure the server settings?,Technical Support,Neutral
-"Someone is trying to log into my account from another country! Also, I am using Google.",Account Access,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"I forgot my password and the reset link is not working. Also, I am using Google.",Account Access,Negative
-"I successfully updated my profile, thanks.",Account Access,Positive
-"My account is locked, please help me regain access. Also, I am using Amazon.",Account Access,Negative
-"The app is so fast now after the update, amazing work! Also, I am using John Doe.",Technical Support,Positive
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"Your website is down and I cannot access my dashboard! Also, I am using Jane Smith.",Technical Support,Negative
-How do I configure the server settings?,Technical Support,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"When will the new hardware be available for purchase? Also, I am using Google.",Product Inquiry,Neutral
-I love the new features in version 2.0!,Product Inquiry,Positive
-I love the new features in version 2.0!,Product Inquiry,Positive
-"Why was I charged twice for my subscription? Also, I am using Microsoft.",Billing,Negative
-"Can you explain the charges on my latest bill? It's confusing. Also, I am using New York.",Billing,Negative
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Is there a discount for students?,Product Inquiry,Neutral
-"Your website is down and I cannot access my dashboard! Also, I am using Microsoft.",Technical Support,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-How can I change my email address?,Account Access,Neutral
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-How can I change my email address?,Account Access,Neutral
-I love the new features in version 2.0!,Product Inquiry,Positive
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"How do I configure the server settings? Also, I am using Microsoft.",Technical Support,Neutral
-"How can I change my email address? Also, I am using John Doe.",Account Access,Neutral
-How can I change my email address?,Account Access,Neutral
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-I forgot my password and the reset link is not working.,Account Access,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"Thank you for refunding my overcharge so quickly! Also, I am using Jane Smith.",Billing,Positive
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-"How can I change my email address? Also, I am using Microsoft.",Account Access,Neutral
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-I am getting an error code 500 when I log in.,Technical Support,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-I would like to update my credit card information.,Billing,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"My software keeps crashing when I try to open a new file. Also, I am using Amazon.",Technical Support,Negative
-"I successfully updated my profile, thanks.",Account Access,Positive
-"How can I change my email address? Also, I am using Apple.",Account Access,Neutral
-I love the new features in version 2.0!,Product Inquiry,Positive
-"I forgot my password and the reset link is not working. Also, I am using London.",Account Access,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"Does the enterprise plan include 24/7 support? Also, I am using Microsoft.",Product Inquiry,Neutral
-Why was I charged twice for my subscription?,Billing,Negative
-How do I configure the server settings?,Technical Support,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"Thank you for refunding my overcharge so quickly! Also, I am using Jane Smith.",Billing,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-"My software keeps crashing when I try to open a new file. Also, I am using Google.",Technical Support,Negative
-I would like to update my credit card information.,Billing,Neutral
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-"I love the new features in version 2.0! Also, I am using Google.",Product Inquiry,Positive
-I forgot my password and the reset link is not working.,Account Access,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-"I love the new features in version 2.0! Also, I am using Apple.",Product Inquiry,Positive
-Why was I charged twice for my subscription?,Billing,Negative
-"My account is locked, please help me regain access.",Account Access,Negative
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"Is there a discount for students? Also, I am using New York.",Product Inquiry,Neutral
-"I successfully updated my profile, thanks.",Account Access,Positive
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-"My account is locked, please help me regain access. Also, I am using Google.",Account Access,Negative
-"How can I change my email address? Also, I am using Jane Smith.",Account Access,Neutral
-How do I configure the server settings?,Technical Support,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-How can I change my email address?,Account Access,Neutral
-"Your website is down and I cannot access my dashboard! Also, I am using Google.",Technical Support,Negative
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-How can I change my email address?,Account Access,Neutral
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-I forgot my password and the reset link is not working.,Account Access,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-"I love the new features in version 2.0! Also, I am using Apple.",Product Inquiry,Positive
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-"How do I configure the server settings? Also, I am using John Doe.",Technical Support,Neutral
-I love the new features in version 2.0!,Product Inquiry,Positive
-"My account is locked, please help me regain access.",Account Access,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-Is there a discount for students?,Product Inquiry,Neutral
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-How do I configure the server settings?,Technical Support,Neutral
-"Your website is down and I cannot access my dashboard! Also, I am using John Doe.",Technical Support,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"Is there a discount for students? Also, I am using Microsoft.",Product Inquiry,Neutral
-"I am getting an error code 500 when I log in. Also, I am using London.",Technical Support,Negative
-How do I configure the server settings?,Technical Support,Neutral
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-How do I configure the server settings?,Technical Support,Neutral
-"I need help with my invoice. The amount seems incorrect. Also, I am using Jane Smith.",Billing,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-I would like to update my credit card information.,Billing,Neutral
-"I successfully updated my profile, thanks.",Account Access,Positive
-How can I change my email address?,Account Access,Neutral
-I would like to update my credit card information.,Billing,Neutral
-"How do I configure the server settings? Also, I am using Jane Smith.",Technical Support,Neutral
-"I successfully updated my profile, thanks.",Account Access,Positive
-"How can I change my email address? Also, I am using Microsoft.",Account Access,Neutral
-I love the new features in version 2.0!,Product Inquiry,Positive
-I would like to update my credit card information.,Billing,Neutral
-I love the new features in version 2.0!,Product Inquiry,Positive
-How can I change my email address?,Account Access,Neutral
-Someone is trying to log into my account from another country!,Account Access,Negative
-"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
-I would like to update my credit card information.,Billing,Neutral
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-I love the new features in version 2.0!,Product Inquiry,Positive
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
-"I forgot my password and the reset link is not working. Also, I am using Amazon.",Account Access,Negative
-"When will the new hardware be available for purchase? Also, I am using John Doe.",Product Inquiry,Neutral
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-Is there a discount for students?,Product Inquiry,Neutral
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-I am getting an error code 500 when I log in.,Technical Support,Negative
-"I successfully updated my profile, thanks.",Account Access,Positive
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"The product description is very misleading, I am disappointed. Also, I am using Jane Smith.",Product Inquiry,Negative
-How do I configure the server settings?,Technical Support,Neutral
-"The app is so fast now after the update, amazing work! Also, I am using Google.",Technical Support,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-I would like to update my credit card information.,Billing,Neutral
-"Your website is down and I cannot access my dashboard! Also, I am using Microsoft.",Technical Support,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-Someone is trying to log into my account from another country!,Account Access,Negative
-"Your website is down and I cannot access my dashboard! Also, I am using London.",Technical Support,Negative
-"My account is locked, please help me regain access. Also, I am using London.",Account Access,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Is there a discount for students?,Product Inquiry,Neutral
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"I forgot my password and the reset link is not working. Also, I am using John Doe.",Account Access,Negative
-I am getting an error code 500 when I log in.,Technical Support,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-I would like to update my credit card information.,Billing,Neutral
-"Why was I charged twice for my subscription? Also, I am using Apple.",Billing,Negative
-"I am getting an error code 500 when I log in. Also, I am using New York.",Technical Support,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"Someone is trying to log into my account from another country! Also, I am using Apple.",Account Access,Negative
-I am getting an error code 500 when I log in.,Technical Support,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-"I need help with my invoice. The amount seems incorrect. Also, I am using Amazon.",Billing,Negative
-I would like to update my credit card information.,Billing,Neutral
-"My software keeps crashing when I try to open a new file. Also, I am using London.",Technical Support,Negative
-Why was I charged twice for my subscription?,Billing,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"Can you explain the charges on my latest bill? It's confusing. Also, I am using Apple.",Billing,Negative
-How can I change my email address?,Account Access,Neutral
-Someone is trying to log into my account from another country!,Account Access,Negative
-I am getting an error code 500 when I log in.,Technical Support,Negative
-"Does the enterprise plan include 24/7 support? Also, I am using John Doe.",Product Inquiry,Neutral
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"I successfully updated my profile, thanks.",Account Access,Positive
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Why was I charged twice for my subscription?,Billing,Negative
-"I would like to update my credit card information. Also, I am using Microsoft.",Billing,Neutral
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-I am getting an error code 500 when I log in.,Technical Support,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"Can you explain the charges on my latest bill? It's confusing. Also, I am using John Doe.",Billing,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-"I successfully updated my profile, thanks.",Account Access,Positive
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"I would like to update my credit card information. Also, I am using London.",Billing,Neutral
-How do I configure the server settings?,Technical Support,Neutral
-How can I change my email address?,Account Access,Neutral
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"My account is locked, please help me regain access. Also, I am using Google.",Account Access,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-Is there a discount for students?,Product Inquiry,Neutral
-"The product description is very misleading, I am disappointed. Also, I am using Jane Smith.",Product Inquiry,Negative
-I would like to update my credit card information.,Billing,Neutral
-I forgot my password and the reset link is not working.,Account Access,Negative
-"My account is locked, please help me regain access.",Account Access,Negative
-"I am getting an error code 500 when I log in. Also, I am using John Doe.",Technical Support,Negative
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"I successfully updated my profile, thanks. Also, I am using Jane Smith.",Account Access,Positive
-"I successfully updated my profile, thanks.",Account Access,Positive
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-I would like to update my credit card information.,Billing,Neutral
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"Your website is down and I cannot access my dashboard! Also, I am using New York.",Technical Support,Negative
-How can I change my email address?,Account Access,Neutral
-Is there a discount for students?,Product Inquiry,Neutral
-How do I configure the server settings?,Technical Support,Neutral
-I would like to update my credit card information.,Billing,Neutral
-"My software keeps crashing when I try to open a new file. Also, I am using Microsoft.",Technical Support,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-I am getting an error code 500 when I log in.,Technical Support,Negative
-Why was I charged twice for my subscription?,Billing,Negative
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-"I need help with my invoice. The amount seems incorrect. Also, I am using Microsoft.",Billing,Negative
-I am getting an error code 500 when I log in.,Technical Support,Negative
-"Can you explain the charges on my latest bill? It's confusing. Also, I am using Amazon.",Billing,Negative
-"I successfully updated my profile, thanks. Also, I am using Apple.",Account Access,Positive
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-"I successfully updated my profile, thanks. Also, I am using John Doe.",Account Access,Positive
-How do I configure the server settings?,Technical Support,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"My account is locked, please help me regain access. Also, I am using Microsoft.",Account Access,Negative
-I forgot my password and the reset link is not working.,Account Access,Negative
-I love the new features in version 2.0!,Product Inquiry,Positive
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"Can you explain the charges on my latest bill? It's confusing. Also, I am using New York.",Billing,Negative
-"I successfully updated my profile, thanks. Also, I am using Microsoft.",Account Access,Positive
-Why was I charged twice for my subscription?,Billing,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-Is there a discount for students?,Product Inquiry,Neutral
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-I am getting an error code 500 when I log in.,Technical Support,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-"I love the new features in version 2.0! Also, I am using Microsoft.",Product Inquiry,Positive
-Why was I charged twice for my subscription?,Billing,Negative
-"The product description is very misleading, I am disappointed. Also, I am using Microsoft.",Product Inquiry,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-"Is there a discount for students? Also, I am using Google.",Product Inquiry,Neutral
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-"I successfully updated my profile, thanks.",Account Access,Positive
-How do I configure the server settings?,Technical Support,Neutral
-I forgot my password and the reset link is not working.,Account Access,Negative
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-Someone is trying to log into my account from another country!,Account Access,Negative
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-Thank you for refunding my overcharge so quickly!,Billing,Positive
-"Your website is down and I cannot access my dashboard! Also, I am using Amazon.",Technical Support,Negative
-Can you explain the charges on my latest bill? It's confusing.,Billing,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-Why was I charged twice for my subscription?,Billing,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"The product description is very misleading, I am disappointed. Also, I am using Google.",Product Inquiry,Negative
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"Why was I charged twice for my subscription? Also, I am using New York.",Billing,Negative
-I forgot my password and the reset link is not working.,Account Access,Negative
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"I am getting an error code 500 when I log in. Also, I am using Jane Smith.",Technical Support,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-I would like to update my credit card information.,Billing,Neutral
-I would like to update my credit card information.,Billing,Neutral
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-How can I change my email address?,Account Access,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-How can I change my email address?,Account Access,Neutral
-"Does the enterprise plan include 24/7 support? Also, I am using John Doe.",Product Inquiry,Neutral
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-When will the new hardware be available for purchase?,Product Inquiry,Neutral
-"The app is so fast now after the update, amazing work! Also, I am using Google.",Technical Support,Positive
-"My account is locked, please help me regain access.",Account Access,Negative
-Is there a discount for students?,Product Inquiry,Neutral
-"I am getting an error code 500 when I log in. Also, I am using Jane Smith.",Technical Support,Negative
-How can I change my email address?,Account Access,Neutral
-I forgot my password and the reset link is not working.,Account Access,Negative
-"My account is locked, please help me regain access.",Account Access,Negative
-"Can you explain the charges on my latest bill? It's confusing. Also, I am using Microsoft.",Billing,Negative
-Someone is trying to log into my account from another country!,Account Access,Negative
-Is there a discount for students?,Product Inquiry,Neutral
-How do I configure the server settings?,Technical Support,Neutral
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-I love the new features in version 2.0!,Product Inquiry,Positive
-I love the new features in version 2.0!,Product Inquiry,Positive
-"Someone is trying to log into my account from another country! Also, I am using London.",Account Access,Negative
-"Someone is trying to log into my account from another country! Also, I am using Amazon.",Account Access,Negative
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"I successfully updated my profile, thanks. Also, I am using Jane Smith.",Account Access,Positive
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"How can I change my email address? Also, I am using Google.",Account Access,Neutral
-How do I configure the server settings?,Technical Support,Neutral
-Does the enterprise plan include 24/7 support?,Product Inquiry,Neutral
-"How can I change my email address? Also, I am using Jane Smith.",Account Access,Neutral
-"I successfully updated my profile, thanks.",Account Access,Positive
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"I successfully updated my profile, thanks. Also, I am using New York.",Account Access,Positive
-"The app is so fast now after the update, amazing work!",Technical Support,Positive
-Why was I charged twice for my subscription?,Billing,Negative
-Why was I charged twice for my subscription?,Billing,Negative
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-"The product description is very misleading, I am disappointed.",Product Inquiry,Negative
-How do I configure the server settings?,Technical Support,Neutral
-My software keeps crashing when I try to open a new file.,Technical Support,Negative
-"Is there a discount for students? Also, I am using New York.",Product Inquiry,Neutral
-I need help with my invoice. The amount seems incorrect.,Billing,Negative
-How can I change my email address?,Account Access,Neutral
-Your website is down and I cannot access my dashboard!,Technical Support,Negative
-I forgot my password and the reset link is not working.,Account Access,Negative
+I can't talk with  a human agent,Technical Support,Neutral
+I have got to locate hte bills from {{Person Name}},Billing,Neutral
+"I cannot pay, help me to inform of a problem with payments",Billing,Negative
+I want help speaking to customer service,Technical Support,Positive
+I try to see th accepted payment options,Billing,Positive
+where to sign up to the company nmewsletter,Technical Support,Neutral
+I'd like to see the withdrwaal fee how can i do it,Technical Support,Positive
+I want to speak with someone,Technical Support,Positive
+can you help me getting bill #85632?,Billing,Positive
+I don't know how to take a quick look at invoice #12588,Billing,Neutral
+I don't know how to delete my platinum account,Account Access,Neutral
+help me check in what cases can I ask to be refunded,Billing,Positive
+is it possible to locate my bill from {{Person Name}},Billing,Neutral
+i want help to file a consumer claim against ur organization,Technical Support,Positive
+uhave a free number to call customer support,Technical Support,Positive
+i do not know how i can see the early termination penalties,Technical Support,Neutral
+could you help me to unsubscribe to the damn newsletter?,Technical Support,Neutral
+I don't know how to inform of problems with a signup,Technical Support,Negative
+download bill from {{Person Name}},Billing,Neutral
+want assistance receiving a refund of money,Billing,Positive
+I don't know how to change to the pro account,Account Access,Neutral
+how can i see the status of my subscription to ur newsletter,Technical Support,Neutral
+I don't know what I have to do to cancel my {{Account Type}} account,Account Access,Negative
+I want help cancelling my subscription to your newsletter,Technical Support,Positive
+I'm trying to see what hours i can call customer service,Technical Support,Neutral
+need to check what hours i can call customer service,Technical Support,Neutral
+I do not know how I can see the withdrawal fee,Technical Support,Neutral
+i want help to see when will my item arrive,Product Inquiry,Positive
+how do I submit another delivery address?,Product Inquiry,Neutral
+"I want to see the cancellation charges, how do I do it?",Technical Support,Negative
+I want help to chat with a live agent,Technical Support,Positive
+modifying info on platinum account,Account Access,Neutral
+"I expect a refund of {{Refund Amount}} dollars, has it been processed?",Billing,Neutral
+I don't know how I can download my bill #12588,Billing,Neutral
+"I can no longer afford order {{Order Number}}, can I cancel it?",Product Inquiry,Negative
+i want help talking with somebody,Technical Support,Positive
+i cant edit order {{Order Number}},Product Inquiry,Neutral
+I need assistanc canceling the newsletter subscription,Technical Support,Neutral
+do uhave a toll-free customer assistance phone number,Technical Support,Positive
+is it possible to speak to someone ?,Technical Support,Neutral
+assistance checking your reimbursement policy,Billing,Neutral
+there is a problem setting up my delivery address,Product Inquiry,Negative
+I want help downloading invoice #85632,Billing,Positive
+"I want to see how soon can I expect the order, how to do it?",Product Inquiry,Positive
+where do i inform of a trouble with payments,Billing,Negative
+can you hwlp me talking with a person?,Technical Support,Neutral
+I want to open a {{Account Category}} account,Account Access,Positive
+I do not know how to download the bills from {{Person Name}},Billing,Neutral
+editing data on {{Account Category}} acocunt,Account Access,Neutral
+talk to agent,Technical Support,Neutral
+need help leaving an opinion for a product,Technical Support,Positive
+want help to see the withdrawal charges,Technical Support,Positive
+help me seeing in what cases can I request reimbursements,Billing,Positive
+where could i check order {{Order Number}} fucking curent status,Product Inquiry,Neutral
+want assistance seeing the ETA of purchase {{Order Number}},Product Inquiry,Positive
+I don't know what I have to do to close my {{Account Category}} account,Account Access,Neutral
+I'm trying to inform of a error with signup,Technical Support,Negative
+want help to speak with an person,Technical Support,Positive
+"I need to see the cancellation fee, can you help me?",Technical Support,Positive
+have a problem with the removal of my {{Account Type}} account,Account Access,Negative
+I awnt assistance to locate the bill #00108,Billing,Neutral
+"I have to create a platinum account, help me",Account Access,Positive
+how to download my bills from {{Person Name}}?,Billing,Neutral
+issue submitting a secondary shipping address,Product Inquiry,Neutral
+i have errors trying to modify the address,Product Inquiry,Negative
+I don't know what I have to do to download my invoice #12588,Billing,Neutral
+I don't know what I need to do to remove a standard account,Account Access,Neutral
+modifu details on {{Account Category}} account,Account Access,Neutral
+"I don't use the goddamn gold account, I want to delete it",Account Access,Positive
+what do i need to do to talk to someone,Technical Support,Neutral
+i dont know how to inform of a trouble with payment,Billing,Negative
+tell me what hours i can get in touch wit customer service,Technical Support,Neutral
+help seeing what shipping options you offer,Product Inquiry,Positive
+could you help me to file a damn consumer complaint?,Technical Support,Negative
+I need to check in which situations can I ask for a refund,Billing,Neutral
+wanna check uf refund policy,Billing,Neutral
+I want help to get refunds,Billing,Positive
+"you are not helpful, help talking to an operator",Technical Support,Negative
+I want to see what payment options are availabl,Billing,Positive
+I need information about a delivery address update,Product Inquiry,Neutral
+create {{Account Type}} accountfor wife,Account Access,Positive
+is it possible to place an order from {{Delivery City}},Product Inquiry,Neutral
+i have paid {{Currency Symbol}}{{Refund Amount}} for an order I'm trying to obtain a refund,Billing,Neutral
+I expect a restitution of {{Refund Amount}} dollars,Billing,Neutral
+help to receive your newslettyer,Technical Support,Positive
+i dont know how  to see bill #12588,Billing,Neutral
+is it possible to list the available payment modalities ?,Billing,Neutral
+how can I talk with a human agent?,Technical Support,Neutral
+i dont kno how to inform of an error with a registration,Technical Support,Negative
+can uhelp me to chat with somebody,Technical Support,Neutral
+create new {{Account Type}} account for daughter,Account Access,Positive
+want assistanfe to shop several damn articles,Product Inquiry,Negative
+I need help making a complaint,Technical Support,Positive
+assistance checking what hours i can reach customre service,Technical Support,Neutral
+I am waiting for a rebate fo {{Refund Amount}} dollars,Billing,Neutral
+i dont know how i can talk to customer service,Technical Support,Neutral
+help me to create a {{Account Category}} account,Account Access,Positive
+I try to notify of a sign-up error,Technical Support,Negative
+i have problems with canceling order {{Order Number}},Product Inquiry,Negative
+I try to order some of your article,Product Inquiry,Neutral
+I need hdlp to submit my feedback for a product,Technical Support,Neutral
+tell me more about updating the delivery address,Product Inquiry,Neutral
+how could I edit my damn user?,Account Access,Negative
+need assistance to find my fucking bill from {{Person Name}},Billing,Neutral
+i expect a reimbursement of {{Refund Amount}} dollars,Billing,Neutral
+can ya help me to switch an item oforder {{Order Number}},Product Inquiry,Positive
+what do I have to do to restore the key of my user profile?,Account Access,Positive
+I do not know what to do to cancel the standard account,Account Access,Negative
+I want information about the removal of my {{Account Type}} account,Account Access,Positive
+i dont know what i have to do to create a freemium account,Account Access,Positive
+helpchecking the allowed payment options,Billing,Neutral
+I cannot submit a secondary delivery address,Product Inquiry,Neutral
+"I have to edit some of my user details, how to do it?",Account Access,Neutral
+set up new shipping address,Product Inquiry,Neutral
+want assistance to get the bills from {{Person Name}},Billing,Positive
+see under what circumstances can i ask for reimbursements,Billing,Neutral
+I want assistance requesting a compensation of money,Billing,Positive
+I have got to submit some feedback for a service,Technical Support,Neutral
+I do not know how I could enter my new delivery address,Product Inquiry,Neutral
+i do not know what to do to talk with an operator,Technical Support,Neutral
+there are issues setting up the new shipping address,Product Inquiry,Neutral
+how do I create a {{Account Type}} account for my daughter?,Account Access,Positive
+d uship to {{Delivery City}},Product Inquiry,Neutral
+get bill #12588,Billing,Neutral
+need assistance cancelling purchase {{Order Number}},Product Inquiry,Negative
+changing order {{Order Number}},Product Inquiry,Neutral
+can you help me subscribing to your corporate newsletter?,Technical Support,Positive
+i do not know what i neerd to do to download my bill #12588,Billing,Neutral
+correcting infornation on standard account,Account Access,Neutral
+need support tryinmg to change the address,Product Inquiry,Positive
+wanna ask for a compensatin of money,Billing,Neutral
+i need information about correcting my shipping address,Product Inquiry,Neutral
+how can I sign up to your corporate nnewsletter?,Technical Support,Neutral
+need assistance to submit my feedback for your services,Technical Support,Neutral
+where to report issues with online payments,Billing,Neutral
+i dont know how to check what methods for delivery are there,Product Inquiry,Neutral
+where could I inform of issues with payment?,Billing,Neutral
+I do not know what I have to do to chat with a human agent,Technical Support,Neutral
+assistance to see ru accepted payment options,Billing,Positive
+I have got to see what methods for delivery I have,Product Inquiry,Neutral
+i do not know how to download the bill #37777,Billing,Neutral
+I don't know how to speak with a humnan agent,Technical Support,Neutral
+I'm tryng to get the bill #00108,Billing,Neutral
+what do i have to do to find my bills from {{Person Name}},Billing,Neutral
+want assistance to write an opinion,Technical Support,Positive
+I am trying to list your acceoted payment options,Billing,Neutral
+checkmy invoice #37777,Billing,Neutral
+question about opening standard accounts,Account Access,Neutral
+open {{Account Category}} account,Account Access,Neutral
+I do not know what to do to speak with an live agent,Technical Support,Neutral
+could uhelp me to contact an assistant,Technical Support,Neutral
+check allowed payment methods,Billing,Neutral
+question about cancellung purchase {{Order Number}},Product Inquiry,Neutral
+modify information on {{Account Type}} acfount,Account Access,Neutral
+i dont know how to see the shipping options,Product Inquiry,Neutral
+I want to look for my bill #12588,Billing,Positive
+I'd like to see order {{Order Number}} current status will  uhelp me,Product Inquiry,Positive
+i need assstance to check how soon can i expect the order,Product Inquiry,Neutral
+is it possible to notify of troubles with online payment ?,Billing,Negative
+I don't know how I can cancel purchase {{Order Number}},Product Inquiry,Negative
+I have problems with cancelling purchase {{Order Number}},Product Inquiry,Negative
+I want assistance to check the withdcrawal charge,Technical Support,Positive
+"I have got to open a new bloody {{Account Type}} account, I need help",Account Access,Negative
+can you help me reporting a registration issue?,Technical Support,Positive
+I don't know what to do to chat with somebody,Technical Support,Neutral
+i want assistance to notify of errors with payment,Billing,Negative
+support updating my address,Product Inquiry,Positive
+help mke chatting with a person,Technical Support,Positive
+i call to check when my parcel is gonna arive,Product Inquiry,Neutral
+how do i change to the gold acconut,Account Access,Neutral
+"I can't pay, assistance notifying of an issue with payment",Billing,Positive
+how do I add some items to order {{Order Number}} ?,Product Inquiry,Neutral
+editing data on pro account,Account Access,Neutral
+shipping to {{Delivery Country}},Product Inquiry,Neutral
+i want help to ask for compensatiuons,Billing,Positive
+i try to check the shipment options,Product Inquiry,Neutral
+I'm waiting for a refund of {{Refund Amount}} dollrs,Billing,Neutral
+open a {{Account Category}} account,Account Access,Neutral
+help to check what hours I can call customer service,Technical Support,Positive
+I try to lodge a customer complaint,Technical Support,Negative
+can you show me the compensation status?,Billing,Neutral
+help to locate the bill from {{Person Name}},Billing,Positive
+need help editing m address,Product Inquiry,Positive
+"I have got to track the restitution, how can I do it?",Billing,Neutral
+need to make a consumer reclamation against ur organization,Technical Support,Neutral
+see what hours i can reach customer service,Technical Support,Neutral
+changing purchase {{Order Number}},Product Inquiry,Neutral
+i want help talking with an agent,Technical Support,Positive
+help me to delete an item from order {{Order Number}},Product Inquiry,Positive
+I don't know how to change the personal information,Account Access,Neutral
+need to receive ur newsletter can ya help me,Technical Support,Positive
+need assistance to make a consumer claim against ur business,Technical Support,Neutral
+want assistance to see the payment modalities,Billing,Positive
+need help to shop several of ur item,Product Inquiry,Positive
+can you show me what shipment options are available?,Product Inquiry,Neutral
+where can i lodge a customer claim,Technical Support,Neutral
+I need assistance to dfownload my invoice #37777,Billing,Neutral
+get invoice #85632,Billing,Neutral
+how do I update the shipping address?,Product Inquiry,Neutral
+can you help me to check the methods for shipping?,Product Inquiry,Positive
+I want to see the status of order {{Order Number}},Product Inquiry,Positive
+"I have got to close a premium account, I need help",Account Access,Positive
+i want help to create a {{Account Category}} account,Account Access,Positive
+I want assistance to change to the freemium account,Account Access,Positive
+i want help to check the current status of my compensation,Billing,Positive
+what do I need to do to order something?,Product Inquiry,Neutral
+I need to set up another deliverry address,Product Inquiry,Neutral
+"I want to file a customer reclamation, how do I do it?",Technical Support,Positive
+I call to check how long it takes for the purchase to arrive,Product Inquiry,Neutral
+I need information about the methods for shipment,Product Inquiry,Neutral
+i cant speak with a person,Technical Support,Neutral
+where do I lodge a claim against your business?,Technical Support,Neutral
+I don't know how to retrieve the pass of ym account,Account Access,Neutral
+could you help me to create a {{Account Type}} account for my fiance?,Account Access,Positive
+help me solving a trouble with payment,Billing,Positive
+I don't know how to check my restitution status,Billing,Neutral
+i can no longer afford purchase {{Order Number}},Product Inquiry,Negative
+want help senxing feedback for ur services,Technical Support,Positive
+can I list the available payment methods?,Billing,Neutral
+help to see in which cases can I ask for refunds,Billing,Positive
+will you transfer to me somebody?,Technical Support,Neutral
+I want help reporting payment problems,Billing,Positive
+"I have to correct purchase {{Order Number}}, I need assistance",Product Inquiry,Neutral
+errors with online payments,Billing,Negative
+i expect a restitution of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+I don't know what I have to do to buy some of your article,Product Inquiry,Neutral
+i want assistance listing the payment methods,Billing,Positive
+i dont know how i can submit the secondary shipping address,Product Inquiry,Neutral
+i need assistance notifying of a payment probelm,Billing,Neutral
+help me to make a customer reclamation against your company,Technical Support,Positive
+I need help acquiringv several of your item,Product Inquiry,Positive
+how to reset the access key of my account,Account Access,Neutral
+I am looking for information about a delivery address change,Product Inquiry,Neutral
+see current status of order {{Order Number}},Product Inquiry,Neutral
+i dont know what i need to do to change to the pro account,Account Access,Neutral
+where could I submit the shipping address?,Product Inquiry,Neutral
+I don't know what to do to notify of registration issues,Technical Support,Neutral
+I do not know how I can buy some of your article,Product Inquiry,Neutral
+another premium account for father,Account Access,Neutral
+can uhelp me ti leave a damn review for a product,Technical Support,Negative
+"I have to check the shipping options, will you help me?",Product Inquiry,Positive
+can you help me lodging a complaint against your company?,Technical Support,Positive
+what do i need to do to get my invoices from {{Person Name}},Billing,Neutral
+what do i have to do to locate my biull #85632,Billing,Neutral
+I don't know how to talk with an agent,Technical Support,Neutral
+I want information about correcting order {{Order Number}},Product Inquiry,Positive
+what do I have to do to report a problem with sign-up?,Technical Support,Negative
+i dont want order {{Order Number}},Product Inquiry,Negative
+problems setting up my secondary delivery address,Product Inquiry,Negative
+swithcing to standard account,Account Access,Neutral
+i want help trying to edit my delivery address,Product Inquiry,Positive
+can you help me leave an opinion foor a product?,Technical Support,Positive
+I try to see what hours customer service aailable is,Technical Support,Neutral
+help checking the withdrawal penalties,Technical Support,Positive
+I do not know what I have to do to speak with an operator,Technical Support,Neutral
+"I would like to downloasd bill #00108, can you help me?",Billing,Positive
+what do I have to do to cancel purchase {{Order Number}}?,Product Inquiry,Negative
+I don't know what I have to do to delete my platinum account,Account Access,Neutral
+i need assistance to reset the pin code of my account,Account Access,Neutral
+can you show me when my item is going to arrive?,Product Inquiry,Neutral
+i try to send feedback about ur services,Technical Support,Neutral
+reset the access key of my account,Account Access,Neutral
+I have troubles editing the address,Product Inquiry,Negative
+do you deliver to {{Delivery Country}}?,Product Inquiry,Neutral
+I want help recovering my PIN code,Account Access,Positive
+"I want to update the damn user data, how could I do it?",Account Access,Negative
+i dont know how to report an issue with a registration,Technical Support,Neutral
+want help to report a trouble with payment,Billing,Positive
+I need assistance to create a {{Account Category}} account,Account Access,Positive
+need assistance to list ur fucking payment methods,Billing,Neutral
+tell me about modifying  my address,Product Inquiry,Neutral
+help me to see at what time I can contact customer service,Technical Support,Positive
+i do not know how i can report a registration problem,Technical Support,Negative
+i dont know what i need to do to download the bill #85632,Billing,Neutral
+want assistance to see the shipping options,Product Inquiry,Positive
+I want help checking the restitution current status,Billing,Positive
+want assistance submitting my feedback for a service,Technical Support,Positive
+"I have to talk with customer support, I need help",Technical Support,Positive
+help me file a consumer complaint against ur company,Technical Support,Positive
+show me in which situations  can i ask for refunds,Billing,Neutral
+I want to correct purchase {{Order Number}},Product Inquiry,Positive
+i cannot see if there is anything new on my refund,Billing,Neutral
+how do I create a bloody {{Account Category}} account for my father?,Account Access,Negative
+could you help me reporting errors with online payment?,Billing,Positive
+I am waiting for a rebate of {{Refund Amount}} dollars,Billing,Neutral
+what do I need to do to shop some of your product?,Product Inquiry,Neutral
+i need help calling customer service,Technical Support,Positive
+how to track the reimbursement?,Billing,Neutral
+where to file a customer reclamation against your company ?,Technical Support,Neutral
+I need assistance checking your reimbursement policy,Billing,Neutral
+"I would like to get the bill from {{Person Name}}, help me",Billing,Positive
+help to check in what situations can I request a refund,Billing,Positive
+I have problems entering a different shipping address,Product Inquiry,Negative
+I don't know how I can write a comment for  a product,Technical Support,Neutral
+shipnents to {{Delivery Country}},Product Inquiry,Neutral
+"I have got to check how soon can I expect my order, help me",Product Inquiry,Positive
+i have got to check when will my item arrive,Product Inquiry,Neutral
+I would like to see the termination charges,Technical Support,Positive
+how to check the current status of purchase {{Order Number}}?,Product Inquiry,Neutral
+help to solve an error withonline payments,Billing,Positive
+how to download the bills from {{Person Name}}?,Billing,Neutral
+can unelp me shop a few of ur article,Product Inquiry,Neutral
+I want assistance to inform of errors with registrations,Technical Support,Negative
+I need assistance tracking my reimbursement,Billing,Neutral
+need to use the {{Account Category}} profile help me,Account Access,Positive
+I don't know how I could see the cancellation penalties,Technical Support,Neutral
+i dont kno how to request a refund of my money,Billing,Neutral
+help informing of a problem with sign-up,Technical Support,Neutral
+what do I need to do to see order {{Order Number}} status?,Product Inquiry,Neutral
+i try to check what paymnt payment modalities ya accept,Billing,Positive
+I do not know what I have to do to get refunds of my money,Billing,Neutral
+how can i ask for refunds of money,Billing,Neutral
+I do not know how to buy several of your product,Product Inquiry,Neutral
+I need assistance seeing what payment options are allowed,Billing,Neutral
+can you help me check the status of my compensation?,Billing,Positive
+where can i get the invoice #12588,Billing,Neutral
+help me report an issue with registrations,Technical Support,Positive
+need help earning several of your article,Product Inquiry,Positive
+i have to check the termination charges how to do it,Technical Support,Negative
+changing details on {{Account Type}} account,Account Access,Neutral
+is it possible to change to the {{Account Category}} account?,Account Access,Neutral
+how could I edit my goddamn account?,Account Access,Negative
+I do not know how to check the early termination penalties,Technical Support,Neutral
+I am waiting for a reimbursement of {{Refund Amount}} dollars,Billing,Neutral
+is it possible to see in what cases can i ask for a refund,Billing,Neutral
+I have to find the bills from {{Person Name}},Billing,Neutral
+I need help opening a new goddamn gold account,Account Access,Negative
+assistance demanding restitutions of money,Billing,Negative
+can I check what hours I can reach customer assistance?,Technical Support,Neutral
+i dont know what i need to do to change to the {{Account Type}} account,Account Access,Neutral
+how do I make a reclamation against your organization?,Technical Support,Neutral
+I have got to report a trouble with online payment,Billing,Negative
+i aint registered yet could i open a pro account withyou,Account Access,Neutral
+can you help me to check what shipment methods I have?,Product Inquiry,Positive
+I need assistance to receive a refund of my money,Billing,Neutral
+could I unsubscribe to your corporate newsletter?,Technical Support,Neutral
+i want assistance checking when will my item arrive,Product Inquiry,Positive
+i have to talk to customer service,Technical Support,Neutral
+can you direct to me a person?,Technical Support,Neutral
+I cannot enter the new delivery address,Product Inquiry,Neutral
+need assistance seeing the payment methods,Billing,Neutral
+how can I inform of a trouble with payhments?,Billing,Negative
+I need help with updating order {{Order Number}},Product Inquiry,Positive
+i want assistance acquiring a few of ur article,Product Inquiry,Positive
+"I have to list your payment modalities, how do I do it?",Billing,Neutral
+I don't know how I can see your refund policy,Billing,Neutral
+can you help me see the ETA of the order {{Order Number}}?,Product Inquiry,Positive
+I want assistance chatting with someone,Technical Support,Positive
+I would like to cancel purchase {{Order Number}},Product Inquiry,Positive
+can you help me to take a quick look at my bill #85632?,Billing,Positive
+I need assistance informing of sign-up problems,Technical Support,Negative
+help me see your allowed payment options,Billing,Positive
+do you deliver to {{Delivery City}}?,Product Inquiry,Neutral
+assistance to see when my order is going to arrive,Product Inquiry,Neutral
+i do not know how i can remove the premium account,Account Access,Neutral
+i need help to set another shipping address pu,Product Inquiry,Positive
+want assistance to see the terminatoin charges,Technical Support,Negative
+I cannot see your refund policy,Billing,Neutral
+need to acquire several of ur article,Product Inquiry,Neutral
+I need assistance retreiving my profile key,Account Access,Neutral
+I want assistance seeing the cancellation charge,Technical Support,Positive
+i need assistance to open a {{Account Category}} account for my dad,Account Access,Neutral
+can you help me track order {{Order Number}}?,Product Inquiry,Positive
+I expect a restitution of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+i dont know how i can take a quick look at my invoice #85632,Billing,Neutral
+I want help to notify of an issue with payments,Billing,Positive
+can you help md unsubscribing to your company newsletter?,Technical Support,Positive
+I have a problem trying to correct the shipping address,Product Inquiry,Negative
+how can I see your reimbursement policy?,Billing,Neutral
+help me download the bill from {{Person Name}},Billing,Positive
+can you help me to speak with a bloody operator?,Technical Support,Negative
+I want help to contact an assistant,Technical Support,Positive
+"I need to see when will my package arrive, help me",Product Inquiry,Positive
+I expect a compensation of {{Refund Amount}} dollars,Billing,Neutral
+help seeing when will my package arrive,Product Inquiry,Positive
+I have troubles setting up a new shipping address,Product Inquiry,Negative
+I don't know what to do to close a pro accoount,Account Access,Neutral
+I do not know how to seehow soon can I expect my purchase,Product Inquiry,Neutral
+can utell me more about modifying my delivery address,Product Inquiry,Neutral
+how can i demand refunds,Billing,Negative
+can you help me changing purchase {{Order Number}}?,Product Inquiry,Positive
+where to send feedback about a product?,Technical Support,Neutral
+there are problems setting up a new delivery address,Product Inquiry,Negative
+I want assistance creatinga standard account,Account Access,Positive
+close {{Account Type}} account,Account Access,Neutral
+where do I see what hours I can call customer service?,Technical Support,Neutral
+I do not know what I need to do to close the {{Account Type}} account,Account Access,Neutral
+I can't pay for purchase {{Order Number}},Product Inquiry,Positive
+wanna see how soon can i expect the shipment help me,Product Inquiry,Positive
+I don't know what I need to do to locate the invoice #85632,Billing,Neutral
+i have troubles entering my delivery address,Product Inquiry,Negative
+i need assistance informing of problems with online payment,Billing,Negative
+what do i need to do to send some feedback,Technical Support,Neutral
+where do I file a claim against your company?,Technical Support,Neutral
+i want assistance to shop a product,Product Inquiry,Positive
+assistance to inform of asign-up problem,Technical Support,Negative
+problems with swapping a product of purchase {{Order Number}},Product Inquiry,Negative
+how to see bill #37777,Billing,Neutral
+where to check the withdrawal penalty?,Technical Support,Negative
+I have to list the available payment options,Billing,Neutral
+where to receive your company newsletter?,Technical Support,Neutral
+i have got to list the accepted payment methods how to do it,Billing,Positive
+help to see how soon can I expect my pacjage,Product Inquiry,Positive
+want help to obtain a compensation of money,Billing,Positive
+what do I have to do to make a complaint?,Technical Support,Negative
+I don't know what I need to do to check bill #37777,Billing,Neutral
+"I have to talk to customer support, can I get some help?",Technical Support,Positive
+need to receive reimbursements of my money,Billing,Neutral
+"my card was declined, inform of an error with payments",Billing,Negative
+updating order {{Order Number}},Product Inquiry,Neutral
+i do not know what i have to do to get my invoice #85632,Billing,Neutral
+"I have got to notify of registration problems, help me",Technical Support,Neutral
+i do not know what to do to contact a human agent,Technical Support,Neutral
+"the experience with you was awful, file a customer complaint",Technical Support,Negative
+"I need to check your allowed payment options, how to do it?",Billing,Neutral
+need assistance to see the ETA of the purchase {{Order Number}},Product Inquiry,Neutral
+help  me reporting a sign-up problem,Technical Support,Neutral
+can I see the termination charges?,Technical Support,Negative
+what do I have to do to enter my new shipping address?,Product Inquiry,Neutral
+I want assistance to demand rebates of money,Billing,Negative
+i do not know what i need to do to hsop several articles,Product Inquiry,Neutral
+i expect a refund of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+I don't know how I can order some of your article,Product Inquiry,Neutral
+can you help me to see the withdrawal fee?,Technical Support,Positive
+where to open a {{Account Category}} account?,Account Access,Neutral
+corrrect order {{Order Number}},Product Inquiry,Neutral
+i need assistance to send some feedback for ur produucts,Technical Support,Neutral
+I don't know what to do to switch to the {{Account Category}} account,Account Access,Neutral
+help to restore my access key,Account Access,Positive
+I do not know how to reset my user profile PIN code,Account Access,Neutral
+can you help me see the current status of the rebate?,Billing,Positive
+can you help me notifying of issues with a registration?,Technical Support,Positive
+"I want to see how soon can I expect my delivery, help me",Product Inquiry,Positive
+where can i obtain a compensation of money,Billing,Neutral
+cn I place an order from {{Delivery City}}?,Product Inquiry,Neutral
+what do i need to do to create a {{Account Category}} account,Account Access,Positive
+I need help leaving feedback about a service,Technical Support,Positive
+I don't know what I need to do to get the bill #12588,Billing,Neutral
+I need help to notify of problems with sign-up,Technical Support,Neutral
+I need help with canceling purchase {{Order Number}},Product Inquiry,Positive
+"I want to send my feedback, I need assistance",Technical Support,Positive
+want help to check in what cases can i request refunds,Billing,Positive
+I try to see order {{Order Number}} status,Product Inquiry,Neutral
+how acn i get information about forgotten access keys,Account Access,Negative
+can uhelp me to get the invoice #12588,Billing,Neutral
+I need help to locate my bills from {{Person Name}},Billing,Positive
+I don't know how to recover the PIN of my profile,Account Access,Neutral
+I want help submitting my feedback about your products,Technical Support,Positive
+i cannot poay for purchase {{Order Number}},Product Inquiry,Neutral
+I'm trying to cancel purchase {{Order Number}},Product Inquiry,Negative
+i want assistance to list the payment methods,Billing,Positive
+help to talk to customer service,Technical Support,Positive
+where can I list the payment options?,Billing,Neutral
+i need assistance with creating a platinum account,Account Access,Positive
+how can I check when my bloody product is going to arrive?,Product Inquiry,Negative
+i dont have a bloody {{Account Category}} account yet i ened to open one,Account Access,Positive
+I do not know how to see when will my item arrive,Product Inquiry,Neutral
+help me see in what cases can I reuest my money back,Billing,Positive
+wanna order a few of ur article,Product Inquiry,Neutral
+wanna see the statusof order {{Order Number}} i need help,Product Inquiry,Positive
+i need assistance getting my bill from {{Person Name}},Billing,Neutral
+is it possible to obtain reimbursements of my money,Billing,Neutral
+i dont know how i could inform of an error with signup,Technical Support,Negative
+i have got to check the terminatiln penalties how to do it,Technical Support,Neutral
+what do I need to do to check the goddamn shipping options?,Product Inquiry,Negative
+lodging consumer complaint against your business,Technical Support,Negative
+want help retrieving the pwd of my user account,Account Access,Positive
+I don't know what to do to see the methods for shipping,Product Inquiry,Neutral
+how can i submit some feedback abot ur company,Technical Support,Neutral
+could you help me reset the PIN of my user profile?,Account Access,Positive
+I don't know what I have to do to reset the PIN of my user,Account Access,Neutral
+help me making a claim against your business,Technical Support,Positive
+I try to edit the address,Product Inquiry,Neutral
+I can't seed your refund policy,Billing,Neutral
+where can i look for the inovice #12588,Billing,Neutral
+need assistance to use the platinum profile,Account Access,Neutral
+i dont know how to change to the premium account,Account Access,Neutral
+i want help talking with an assistat,Technical Support,Positive
+need help to see what shipping methods are there,Product Inquiry,Positive
+see in what situations can I ask for refunds,Billing,Neutral
+i cannot pay want help to report errors with payments,Billing,Negative
+"I cannot find the termination penalty, can I get some help?",Technical Support,Negative
+show me what payment options are accepted,Billing,Positive
+I try to restore the access key of my account,Account Access,Positive
+what do i have to do to get invoice #37777,Billing,Neutral
+assistance lodging a customer reclamation against ur copany,Technical Support,Neutral
+I do not know how I can set up my shipping address,Product Inquiry,Neutral
+how to subscribe to the newsletter?,Technical Support,Neutral
+i dont know what to do to get the invoice #00108,Billing,Neutral
+want help to change something of order {{Order Number}},Product Inquiry,Positive
+I want help to see the fucking ETA of the order {{Order Number}},Product Inquiry,Positive
+I have a trouble trying to modify my address,Product Inquiry,Negative
+do you ship to {{Delivery Country}}?,Product Inquiry,Neutral
+could you help me check hte cancellation penalties?,Technical Support,Positive
+how to check at what time I can call customer service?,Technical Support,Neutral
+i want inofrmation about delivery periods how could i get it,Product Inquiry,Positive
+"I have to see my refund current status, will you help me?",Billing,Positive
+correcting data on {{Account Type}} accoujnt,Account Access,Neutral
+track order {{Order Number}},Product Inquiry,Neutral
+notify of issue with ergistration,Technical Support,Neutral
+I expect a reimbursmeent of {{Refund Amount}} dollars,Billing,Neutral
+help me reporting an issue wigh online payment,Billing,Positive
+refund  {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+look for bill #00108,Billing,Neutral
+can you help me seeing when my product is going to arrive?,Product Inquiry,Positive
+can ya help me see what payment options ya accept,Billing,Positive
+is it possible to change to the pro account?,Account Access,Neutral
+"I want to see my invoice #37777, I need assistance",Billing,Positive
+assistance seeing what shipment options are available,Product Inquiry,Neutral
+there is an error modifying my delivery address,Product Inquiry,Negative
+use platinum account,Account Access,Neutral
+could i swap some goddamn products of order {{Order Number}},Product Inquiry,Negative
+I do not know how to notify of a trouble with payment,Billing,Negative
+I want assistance settnig up the delivery address,Product Inquiry,Positive
+where do I find the bill from {{Person Name}}?,Billing,Neutral
+assistance seeing the invoices from {{Person Name}},Billing,Neutral
+i do not know what to do to download the invoice #85632,Billing,Neutral
+what do I have to do to use the {{Account Category}} profile?,Account Access,Neutral
+I have got to make a customer reclamation,Technical Support,Neutral
+I need help with adding an article to order {{Order Number}},Product Inquiry,Positive
+need help to open a freemium afcount for my daughter,Account Access,Positive
+wanna locate purchase {{Order Number}} can i get some help,Product Inquiry,Positive
+i have to check the shipment methods i need assistance,Product Inquiry,Neutral
+is there an e-mail to send an opinion about your products?,Technical Support,Neutral
+open a {{Account Category}} account for my dad,Account Access,Neutral
+I don't know how to leave some feedback,Technical Support,Negative
+i dont know what to do to change to the freemium account,Account Access,Neutral
+I can't check purchase {{Order Number}} status,Product Inquiry,Neutral
+i cannot pay help me to report issues with payment,Billing,Negative
+switching to {{Account Category}} account,Account Access,Neutral
+I want to know about receiving your company newsletter,Technical Support,Positive
+I am waiting for a restitution of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+i dont know what i habe to do to get my bill #85632,Billing,Neutral
+I want assistance to see the payment methods,Billing,Positive
+help me to check the current status of order {{Order Number}},Product Inquiry,Positive
+I want to see in which cases can I request to be refunded,Billing,Positive
+i dont know what i need to do to delete a standard account,Account Access,Neutral
+want help lodging a consumer reclmaation,Technical Support,Positive
+want help to file a consumer claim,Technical Support,Positive
+need to report an issue with signup,Technical Support,Neutral
+can uhelp me to shop some items,Product Inquiry,Neutral
+"I have got to talk to bloody customer support, I need help",Technical Support,Positive
+reimbusre {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+changing data on {{Account Type}} account,Account Access,Neutral
+I cannot edit my delivery address,Product Inquiry,Neutral
+how do I see your available payment modalities?,Billing,Neutral
+could I cancel my corporate newsletter subscription?,Technical Support,Negative
+i need help with cancelling order {{Order Number}},Product Inquiry,Positive
+is there an address to send feedback for ur products,Technical Support,Neutral
+can i place an order from {{Delivery City}},Product Inquiry,Neutral
+"I need to cancel a {{Account Type}} account, could you help me?",Account Access,Positive
+I want information about correcting the address,Product Inquiry,Positive
+where do I reset my user key?,Account Access,Neutral
+help switching an article of order {{Order Number}},Product Inquiry,Positive
+creating new {{Account Type}} account,Account Access,Positive
+help me to lodge a consumer claim,Technical Support,Positive
+shipments to {{Delivery City}},Product Inquiry,Neutral
+is it possible to restore my user PIN?,Account Access,Positive
+I do not know what I need to do to get a reimbursement,Billing,Neutral
+i do not know what i have to do to download invoice #12588,Billing,Neutral
+want assistance seeinhg how long the shipment takes,Product Inquiry,Positive
+I would like to cancel purchase {{Order Number}},Product Inquiry,Positive
+"I cannot find my bill #85632, mail it to me",Billing,Neutral
+I need assistance to check when will my article arrive,Product Inquiry,Neutral
+where can I buy some of your article?,Product Inquiry,Neutral
+I want to talk to a goddamn human agent,Technical Support,Negative
+wanna see in which situations can i ask for a refund,Billing,Neutral
+ur refund policy,Billing,Neutral
+I have got to see in which situations can Irequest a refund,Billing,Neutral
+I don't know what I have to do to open a {{Account Type}} account,Account Access,Neutral
+i dont know how i can unsubscribe from ur company newsletter,Technical Support,Neutral
+wqhere to obtain rebates of money,Billing,Neutral
+I want help to switch something of order {{Order Number}},Product Inquiry,Positive
+is it possible to check invoice #37777,Billing,Neutral
+I want help to see order {{Order Number}} status,Product Inquiry,Positive
+i do not know how i can talk to a human agent,Technical Support,Neutral
+i expect a damn restitution of {{Currency Symbol}}{{Refund Amount}},Billing,Negative
+how can I find information about the shipping period?,Product Inquiry,Neutral
+wanna edit the data included on my user profile can uhelp me,Account Access,Neutral
+do you shp to {{Delivery City}}?,Product Inquiry,Neutral
+"I want to see the cancellation penalty, help me",Technical Support,Neutral
+what is your customer assistance number?,Technical Support,Positive
+I need help giving an quick look at my bill #85632,Billing,Positive
+"I want to see your money back guarantee, how can I do it?",Billing,Positive
+i dont know how  to change my address,Product Inquiry,Neutral
+assistance canceling the last order,Product Inquiry,Neutral
+where can I submit my feedback for a product?,Technical Support,Neutral
+I don't know how I could submit feedback for your company,Technical Support,Neutral
+I want to inform of registration issues,Technical Support,Positive
+how could i change to the {{Account Type}} account,Account Access,Neutral
+I want help trying to edit my shipping address,Product Inquiry,Positive
+i do not know how to enter a delivery address,Product Inquiry,Neutral
+where could i see the eta of order {{Order Number}},Product Inquiry,Neutral
+i do not know how to switch to the standard account,Account Access,Neutral
+I'd like to update the details on my account i need help,Account Access,Positive
+I cannot report a problem with signup,Technical Support,Positive
+help me seeing purchase {{Order Number}} status,Product Inquiry,Positive
+how do i shop some products,Product Inquiry,Neutral
+I don't know how to lodge a condumer reclamation,Technical Support,Neutral
+tracking order {{Order Number}},Product Inquiry,Neutral
+I do not know what I need to do to purchase something,Product Inquiry,Neutral
+where do i open a gold account for my fiance,Account Access,Neutral
+assistance to list the payment options,Billing,Neutral
+i paid {{Refund Amount}} dollars for an article how can i obtain a rebate,Billing,Neutral
+I want to check in what cases can I request to be reimbursed,Billing,Positive
+where is purechase {{Order Number}},Product Inquiry,Neutral
+want help checking in what situations can I ask for a refund,Billing,Positive
+I need help to ask for a compensation of my money,Billing,Positive
+help me to lodge a claim against ur business,Technical Support,Positive
+"I submitted a wrong address by mistake, could I update it?",Product Inquiry,Negative
+can I talk with an assistant?,Technical Support,Neutral
+need to modify the details on my user profile how to do it,Account Access,Neutral
+what do i need to do to set up my delivery address,Product Inquiry,Neutral
+want help to know if there is anything wrong with the refund,Billing,Neutral
+I need to retrieve the pass of my user account,Account Access,Neutral
+show me the withdrawal penalties,Technical Support,Neutral
+I need help closing a platinum account,Account Access,Positive
+I would like to see what hours I can call customer support,Technical Support,Positive
+can ya help me to see what shipment options i have,Product Inquiry,Positive
+need to change something of purchase {{Order Number}},Product Inquiry,Neutral
+help checking in which cases can I ask to be reimbursed,Billing,Positive
+would it be possible to enter the new delivery address?,Product Inquiry,Neutral
+I want assistance to notify of troubles with online payments,Billing,Negative
+"I have to see the early exit penalty, could you help me?",Technical Support,Negative
+i need information about the shipment options,Product Inquiry,Neutral
+how do I edit order {{Order Number}}?,Product Inquiry,Neutral
+is it possible to talk to customer service,Technical Support,Neutral
+I have got to see your money back policy,Billing,Neutral
+i need assistance looking for the bills from {{Person Name}},Billing,Neutral
+ohw do I check how soon can I expect the item?,Product Inquiry,Neutral
+cann I lodge a consumer reclamation against your business?,Technical Support,Neutral
+can I talk to customer uspport?,Technical Support,Neutral
+assistance receiving the company newsletter,Technical Support,Neutral
+i have a question about creating a freemium account,Account Access,Positive
+I do not know how I can make a customer reclamation,Technical Support,Neutral
+I would like to track the restitution,Billing,Positive
+help me canceling purchase {{Order Number}},Product Inquiry,Positive
+edit information onfree account,Account Access,Neutral
+want help listing the accepted payment methods,Billing,Positive
+where can I download the invoice #37777?,Billing,Neutral
+"I would like to submit my feedback about a product, help me",Technical Support,Positive
+i do not know what to do to lodge a customer reclamation,Technical Support,Neutral
+I need assistance resetting the key of my user account,Account Access,Neutral
+"I have to download the bill from {{Person Name}}, how to do it?",Billing,Neutral
+i dont know how i can see my rebate current status,Billing,Neutral
+is it possible top order several items?,Product Inquiry,Positive
+i need assistance to locate purchase {{Order Number}},Product Inquiry,Neutral
+I want to know more about updating my address,Product Inquiry,Positive
+i need help seeing the goddamn eta of purchae {{Order Number}},Product Inquiry,Negative
+I need help to obtain refunds of money,Billing,Positive
+leave review for a service,Technical Support,Negative
+help to file a consumer complaint against your organization,Technical Support,Positive
+there are errors setting up my secondary shipping address,Product Inquiry,Negative
+help to chat with a damn operator,Technical Support,Neutral
+help me to unsubscribe from the company newsletter,Technical Support,Positive
+could you help me talking with customer assistance?,Technical Support,Positive
+there is an error trying to update my shipping address,Product Inquiry,Negative
+I am trying to file a rreclamation against your business,Technical Support,Neutral
+how can I ask for a restitution of my money?,Billing,Neutral
+i cant open a user account help me report sign-up errors,Technical Support,Positive
+i do not know how to file a customer complaint,Technical Support,Negative
+i need help changing some articles of order {{Order Number}},Product Inquiry,Positive
+i want help retrieving my pin code,Account Access,Positive
+change info on platinum account,Account Access,Neutral
+what do I need to do to file a claim?,Technical Support,Neutral
+need assistance recovering the PIN code of my account,Account Access,Neutral
+need to check ur refund policy can i get some help,Billing,Positive
+I do not know how to get refunds of my money,Billing,Neutral
+I cannot check the status of my newsletter subscription,Technical Support,Neutral
+assistance trying to change the shipping address,Product Inquiry,Neutral
+need help to see in which situations can I request a refund,Billing,Positive
+wanna file a customer claim against ur company,Technical Support,Neutral
+I want help receiving the corporate newsletter,Technical Support,Positive
+I need to check the cancellation charge,Technical Support,Neutral
+need help to report an issue with payment,Billing,Positive
+"I have got to enter a delivery address, can you help me?",Product Inquiry,Positive
+how can I check the available payment modalities?,Billing,Neutral
+help submitting some feedback for ur products,Technical Support,Positive
+can I order from {{Delivery City}}?,Product Inquiry,Neutral
+i have to check in what cases can i ask for refunds,Billing,Neutral
+i do not know what to do toreset the pwd of my user,Account Access,Neutral
+I need to see when will my product arrive,Product Inquiry,Neutral
+where do I report an issue iwth sign-up?,Technical Support,Neutral
+is it possible to order from {{Delivery Country}}?,Product Inquiry,Neutral
+"I want to get the bill #85632, I need help",Billing,Positive
+can you help me to correct my address?,Product Inquiry,Positive
+help to see in what cases can I ask for a reimbursement,Billing,Positive
+what do I need to do to remove the {{Account Type}} account?,Account Access,Neutral
+I am trying to see what hours customer service available is,Technical Support,Neutral
+assistance with payment,Billing,Neutral
+remove premium account,Account Access,Neutral
+I do not know ohw to acquire an item,Product Inquiry,Neutral
+I do not know how to acquire a few of your product,Product Inquiry,Neutral
+what do i need to do to speak with an assistant,Technical Support,Neutral
+how could i enter afucking delivery address,Product Inquiry,Neutral
+I do not know how I can get my invoice from {{Person Name}},Billing,Neutral
+is it possible to earn several products?,Product Inquiry,Neutral
+updating premium accojnt,Account Access,Neutral
+can you help me seeing how soon can I expect my purchase?,Product Inquiry,Positive
+open another standard account for mum,Account Access,Neutral
+i have top inform of goddamn sign-up problems could uhelp me,Technical Support,Negative
+I do not know what to do to write a comment about a product,Technical Support,Neutral
+help me seeing if there are any news on my reimbursement,Billing,Positive
+I do not know how I can enter the new delivery address,Product Inquiry,Neutral
+want help sending some feedback for your prfoducts,Technical Support,Positive
+is it possible to lodge a customer claim,Technical Support,Neutral
+need help to check in which cases can I request refunds,Billing,Positive
+how to change to the {{Account Category}} account,Account Access,Neutral
+rebating {{Refund Amount}} dollars,Billing,Neutral
+I am trying to check order {{Order Number}} current status,Product Inquiry,Neutral
+I need supports trying to update my shipping address,Product Inquiry,Positive
+I want help solving a problem with online payment,Billing,Positive
+help me using the {{Account Type}} profile,Account Access,Positive
+assistance informing of problems with registrations,Technical Support,Negative
+I need to speak to someone,Technical Support,Neutral
+could you help me to submit some feedback for your products?,Technical Support,Positive
+there are errors trying to modify my shipping address,Product Inquiry,Negative
+"I need to see how soon can I expect my shipment, help me",Product Inquiry,Positive
+contact live agent,Technical Support,Neutral
+get invoices from {{Person Name}},Billing,Neutral
+see purchase {{Order Number}} status,Product Inquiry,Neutral
+I call to send my feedback about your services,Technical Support,Neutral
+need to speak to customersupport can ya help me,Technical Support,Positive
+help me to reset my profile pwd,Account Access,Positive
+I'm trying to see the eta of purchase {{Order Number}},Product Inquiry,Neutral
+I do not know how to contact customer service,Technical Support,Neutral
+I would like to delete my premium account,Account Access,Positive
+i have got to locate order {{Order Number}},Product Inquiry,Neutral
+find my invoices from {{Person Name}},Billing,Neutral
+rebating {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+list ur payment modalities,Billing,Neutral
+assistance to check the current status of order {{Order Number}},Product Inquiry,Neutral
+I need help seeing the bloody termination penalty,Technical Support,Negative
+want help to change several items of purchase {{Order Number}},Product Inquiry,Positive
+I want assistance seeing the bloody cancellation fee,Technical Support,Negative
+how can I ask for a compensation of money?,Billing,Neutral
+i have to contact an agent,Technical Support,Neutral
+I do not know how I can check your allowed payment options,Billing,Neutral
+I want help restoring my user account PIN,Account Access,Positive
+there are problems tring to correct my address,Product Inquiry,Negative
+I need assistance to enter another shipping address,Product Inquiry,Neutral
+question about canceling a bloody purchase,Product Inquiry,Negative
+i never use the pro account i need help deleting it,Account Access,Positive
+see order {{Order Number}} current status,Product Inquiry,Neutral
+help checking what hours customer service available is,Technical Support,Positive
+canceling order {{Order Number}},Product Inquiry,Neutral
+I need help with canceling order {{Order Number}},Product Inquiry,Positive
+I want to see in which cases can I request my money back,Billing,Positive
+need to check what methods for delivery i can choose help me,Product Inquiry,Positive
+I dp not know how to cancel order {{Order Number}},Product Inquiry,Negative
+where can i find information about the methods for shipment,Product Inquiry,Neutral
+I want assistance submitting feedback for your company,Technical Support,Positive
+i have got to ceck ur money back guarantee i need help,Billing,Positive
+can you help me seeing the cancellation charges?,Technical Support,Positive
+I don't know what I have to do to locate my invoice #00108,Billing,Neutral
+show me in which cases can I ask for refunds,Billing,Neutral
+I want help to inform of a sign-up problem,Technical Support,Positive
+what do I have to do to talk with an agent?,Technical Support,Neutral
+I do not know what I have to do to delete a {{Account Category}} account,Account Access,Neutral
+i do not know what i have to do to get bill #00108,Billing,Neutral
+can you help me to inform of a trouble with payment?,Billing,Neutral
+i want help retrieving the access key of my account,Account Access,Positive
+modifying details on {{Account Type}} account,Account Access,Neutral
+correcting info on {{Account Category}} aqccount,Account Access,Neutral
+I have an issue submitting the secondray delivery address,Product Inquiry,Neutral
+i want assistance acquiring a few of ur item,Product Inquiry,Positive
+I call to get my invoice from {{Person Name}},Billing,Neutral
+"I ain't registered, how to open a standard account with you?",Account Access,Neutral
+i dont know what i have to do to speak to an assistant,Technical Support,Neutral
+I do not know how to list the payment methods,Billing,Neutral
+"I have lost my user account password, how can I reset it?",Account Access,Negative
+wanna see order {{Order Number}} status acn ya help me,Product Inquiry,Positive
+I want assistance retrieving my user profile key,Account Access,Positive
+"I have to check the shipment options, help me",Product Inquiry,Positive
+I need assistance taking a quick look at my bill #12588,Billing,Neutral
+where to see how long the delivery takes?,Product Inquiry,Neutral
+would it be possible to swap an article of order {{Order Number}}?,Product Inquiry,Neutral
+i dont know what i need to do to report errors with sign-up,Technical Support,Negative
+where can I edit my delivery address?,Product Inquiry,Neutral
+open platinum account for wife,Account Access,Neutral
+i want assistance to notify of a goddamn signup problem,Technical Support,Negative
+can you help me seeing in what cases can I request a refund?,Billing,Positive
+help me contact customer assistance,Technical Support,Positive
+can ya help me to check the ETA of the order {{Order Number}},Product Inquiry,Positive
+i have to check how soon can i expect tne article,Product Inquiry,Neutral
+i cannot set up my new shipping address,Product Inquiry,Neutral
+problems with cancelling order {{Order Number}},Product Inquiry,Negative
+modify information on {{Account Category}} account,Account Access,Neutral
+under what circumstances can I ask to be reimbursed?,Billing,Neutral
+help solving a trouble with online payment,Billing,Positive
+want help to send my feedback for your rpoducts,Technical Support,Positive
+need to create an {{Account Category}} account,Account Access,Positive
+help submitting feedback about a service,Technical Support,Positive
+"I paid {{Currency Symbol}}{{Refund Amount}} for these articles, I have to obtain a rebate",Billing,Neutral
+i have got to buy several articles,Product Inquiry,Neutral
+I try to delete the {{Account Type}} account,Account Access,Neutral
+what do I need to do to see bill #37777?,Billing,Neutral
+tell me about updating my delivery address,Product Inquiry,Neutral
+I want assistance seeing your available payment modalities,Billing,Positive
+cancel {{Account Category}} account,Account Access,Negative
+"I need to change to the pro account, how can I do it?",Account Access,Neutral
+can I send feedback for a service?,Technical Support,Neutral
+I want to change to the {{Account Type}} account,Account Access,Positive
+I have to create a {{Account Type}} acocunt for my fiance,Account Access,Positive
+cancelling {{Account Type}} account,Account Access,Negative
+order 113542617735902current status,Product Inquiry,Neutral
+I want assistance using the standard account,Account Access,Positive
+opening new {{Account Type}} account for daughter,Account Access,Neutral
+I need help to check purchase {{Order Number}} current status,Product Inquiry,Positive
+I need assistance to speak to a live agent,Technical Support,Neutral
+I do not know what I need to do to send some damn feedback,Technical Support,Negative
+can i check the withdrawal penalty,Technical Support,Negative
+will umail me the bills from {{Person Name}},Billing,Neutral
+i need help reporting a trouble with online payments,Billing,Neutral
+"I cannot open an account, how to report a sign-up issue?",Technical Support,Neutral
+help me checking if there are any news on my refund,Billing,Positive
+error modifying  delivery address,Product Inquiry,Negative
+help to see order {{Order Number}} current status,Product Inquiry,Positive
+help me sending my feedback about your services,Technical Support,Positive
+"I have to see the early exit penalty, I need help",Technical Support,Negative
+I don't know what to do to remove the premium account,Account Access,Neutral
+I don't know what I need to do to chat with an operator,Technical Support,Neutral
+i expect an refund of {{Refund Amount}} dollars was it processed,Billing,Neutral
+need to check what hours i can reach customer service,Technical Support,Neutral
+need assistanbce to make a complaint,Technical Support,Negative
+"I have got to lodge a complaint, can I get some help?",Technical Support,Positive
+can uhelp me to recover te pwd of my user,Account Access,Neutral
+"I need to see in what cases can I request a refund, help me",Billing,Positive
+i expect a reimbursement of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+I need assistance to see what delivery methods are there,Product Inquiry,Neutral
+i do not know what to do to close the {{Account Category}} account,Account Access,Neutral
+help to check the damn current status of the restitution,Billing,Neutral
+send me bull from {{Person Name}},Billing,Neutral
+could I retrieve the password of my user account?,Account Access,Neutral
+wanna use the {{Account Type}} account i need help,Account Access,Positive
+"I want to correct my address, I need help",Product Inquiry,Positive
+i dont have a {{Account Category}} account eyt i need to sign up,Account Access,Neutral
+I'd like to get the bill from {{Person Name}} how to od it,Billing,Positive
+how do I see order {{Order Number}} current status?,Product Inquiry,Neutral
+I do not know how to call customer service,Technical Support,Neutral
+how can i swap several items of purchase {{Order Number}},Product Inquiry,Neutral
+I want assistance to check how soon can I expect the package,Product Inquiry,Positive
+I have to see the current status of my reimbursement,Billing,Neutral
+"I am unhappy with your work, I want to file a consumer claim",Technical Support,Negative
+i cannot track my restitution,Billing,Neutral
+get invoices from last purchase,Billing,Neutral
+I want assistance using the gold account,Account Access,Positive
+I don't know what I need to do to download invoice #37777,Billing,Neutral
+I want help talking with an assistant,Technical Support,Positive
+i cant change an item of purchase {{Order Number}},Product Inquiry,Neutral
+I am trying to see the early exit penalties,Technical Support,Neutral
+edit info on platinum account,Account Access,Neutral
+new {{Account Category}} acount for wife,Account Access,Neutral
+I do not know what to do to demand my money back,Billing,Negative
+"I made a mistake, I want help editing order {{Order Number}}",Product Inquiry,Positive
+acn i switch to the pro account,Account Access,Neutral
+see invoice #37777,Billing,Neutral
+updating info on {{Account Type}} account,Account Access,Neutral
+how can i remove a platinum acclunt,Account Access,Neutral
+I expect a bloody reimbursement of {{Refund Amount}} dollars,Billing,Negative
+I want help to update some of the details on my user account,Account Access,Positive
+is it possible to receive reimbursements?,Billing,Neutral
+updaing info on {{Account Type}} account,Account Access,Neutral
+I'm calling to write a comment about ur services,Technical Support,Neutral
+assistance to see the invoice from {{Person Name}},Billing,Neutral
+I have errors with my registration,Technical Support,Negative
+I want help to notify of a registration error,Technical Support,Positive
+i mised some items in purchase {{Order Number}} can i add them,Product Inquiry,Neutral
+help me sign up to ur newsleter,Technical Support,Positive
+where to acquire several of your article?,Product Inquiry,Neutral
+i have lost my bill from {{Person Name}} find it for me,Billing,Negative
+correcting details on {{Account Category}} account,Account Access,Neutral
+"I have got to write a comment about a product, help me",Technical Support,Positive
+"I have to acquire a bloody item, I need assistance",Product Inquiry,Negative
+can you help me obtaining refunds?,Billing,Positive
+I have a problem with canceling purchase {{Order Number}},Product Inquiry,Negative
+needc to talk to an assistant,Technical Support,Neutral
+I want assistance switching to the {{Account Category}} account,Account Access,Positive
+can huelp me check ur refund policy,Billing,Neutral
+can ya help me using the fucking {{Account Category}} profile,Account Access,Positive
+can i see what payment payment modalities are available,Billing,Neutral
+I want assistance to check the available payment modalities,Billing,Positive
+i dont know how i can ask for compensations of money,Billing,Neutral
+I am trying to retrieve the PIN of my user profile,Account Access,Neutral
+remove pro accoint,Account Access,Neutral
+how can I restore the password of my user profile?,Account Access,Positive
+can ay help me notifying of a trouble with payment,Billing,Neutral
+I do not know how to track order {{Order Number}},Product Inquiry,Neutral
+"I would like to shop some of your product, how to do it?",Product Inquiry,Positive
+can uhelp me canceling purchase {{Order Number}},Product Inquiry,Neutral
+where do i request reimburseents,Billing,Neutral
+I want to know more about opening {{Account Category}} accounts,Account Access,Positive
+help notifying of signup problems,Technical Support,Neutral
+i try to speak with someone,Technical Support,Neutral
+wanna chec order {{Order Number}} status,Product Inquiry,Neutral
+what do i have to do to close the {{Account Type}} account,Account Access,Neutral
+opening new {{Account Type}} account for daughter,Account Access,Neutral
+could I see the goddamn available payment methods?,Billing,Negative
+I want assistance deleting my standard account,Account Access,Positive
+I'd like to purcjase several of ur item help me,Product Inquiry,Positive
+i want help talkingh to a live agent,Technical Support,Positive
+i want help downloading the bill #85632,Billing,Positive
+how can I lodge a customer claim?,Technical Support,Neutral
+can you help me making a complaint?,Technical Support,Positive
+I'm looking for infdormation about editing the address,Product Inquiry,Neutral
+"I need to leave some feedback, can I get some help?",Technical Support,Positive
+I have to acquire some items,Product Inquiry,Neutral
+how can I switch to the freemium account?,Account Access,Neutral
+help me to acquire a few of your item,Product Inquiry,Positive
+I need help with canceling purchase {{Order Number}},Product Inquiry,Positive
+I have to speak with a person,Technical Support,Neutral
+I don't know how I can speak with an operator,Technical Support,Neutral
+I have to give a quick look at the invoice #00108,Billing,Neutral
+how to swap some articles of order {{Order Number}}?,Product Inquiry,Neutral
+can uhelp me to change a product of purchase {{Order Number}},Product Inquiry,Neutral
+can ya help me to create a platinum account for my fiance,Account Access,Positive
+i dont know what i need to do to change to the {{Account Type}} account,Account Access,Neutral
+I do not know what I need to do to create a {{Account Type}} account,Account Access,Positive
+I have got to swap a damn product of order {{Order Number}},Product Inquiry,Negative
+need assistance to speak to a live agent,Technical Support,Neutral
+I cannot find the early termination charge,Technical Support,Neutral
+can you help me recover my user profile password?,Account Access,Positive
+i have got to cancel the subscription to ur newsletter,Technical Support,Negative
+i dont know what i need to do to make a customer claim,Technical Support,Neutral
+retrieve my user password,Account Access,Neutral
+I want to update my user profile,Account Access,Positive
+problem modifying delivery address,Product Inquiry,Negative
+i want help requesting a reimbursement of moey,Billing,Positive
+download bills from {{Person Name}},Billing,Neutral
+"I have to update order {{Order Number}}, I need assistance",Product Inquiry,Neutral
+I'd liketo see the ETA of the purchase {{Order Number}} help me,Product Inquiry,Positive
+need assistance to recover my account pass,Account Access,Neutral
+I don't know what I have to do to earn a few of your item,Product Inquiry,Neutral
+i dont know how to cancel my subscription to the newsletter,Technical Support,Negative
+find information about the removal of my pro account,Account Access,Neutral
+editing information on account,Account Access,Neutral
+help me order solme of ur article,Product Inquiry,Positive
+how can I check if there are any updates on the restitution?,Billing,Neutral
+"I have got to submit the secondary shipping address, help me",Product Inquiry,Positive
+add some products to order {{Order Number}},Product Inquiry,Neutral
+can I see how long the shipping takes?,Product Inquiry,Neutral
+I'm waiting for a refund of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+can uhelp me check the bloody early termination charge,Technical Support,Negative
+I have got to change the details included on my user,Account Access,Neutral
+could you help me see how soon can I expect my parcel?,Product Inquiry,Positive
+help to use the pro profile,Account Access,Positive
+i need assistance to file a complaint,Technical Support,Negative
+know if there is anything new on my rebate,Billing,Neutral
+help using the {{Account Type}} profile,Account Access,Positive
+how do I use the premium account?,Account Access,Neutral
+"I need to edit my goddamn user, could I get some help?",Account Access,Negative
+I'm trying to see the rebate current status,Billing,Neutral
+delete standard account,Account Access,Neutral
+i chose a wfong fucking address i wanna correct it,Product Inquiry,Neutral
+"I cannot find the termination fees, I need assistance",Technical Support,Neutral
+I do not know how to leave a goddamn comment about a service,Technical Support,Negative
+where do I order something?,Product Inquiry,Neutral
+i have got to retrieve my account pin how could i do it,Account Access,Neutral
+where do I check how long it takes for my item to arrive?,Product Inquiry,Neutral
+will you give me information about my PIN retrieval?,Account Access,Neutral
+i  dont know how to switch to the pro account,Account Access,Neutral
+can you help me check if there are any news on my refund?,Billing,Positive
+"my goddamn delivery address has changed, change it",Product Inquiry,Negative
+help me solving troubles with payment,Billing,Positive
+order {{Order Number}} status,Product Inquiry,Neutral
+I need assistance to chat with an operator,Technical Support,Neutral
+assistance giving an quick look at my invoice from {{Person Name}},Billing,Positive
+mldifying premium account,Account Access,Neutral
+check bills from {{Person Name}},Billing,Neutral
+cn I place an order from {{Delivery City}}?,Product Inquiry,Neutral
+edit info on {{Account Category}} account,Account Access,Neutral
+how can I see the status of purchae {{Order Number}}?,Product Inquiry,Neutral
+is there an address to leave an opinion ?,Technical Support,Negative
+I want assistance to take a quick look at bill #85632,Billing,Positive
+wanna see ur refund policy how to do  it,Billing,Neutral
+is there a way to submit some feedback for ur services,Technical Support,Neutral
+I want assistance to request my money back,Billing,Positive
+could I check the goddamn status of the refund?,Billing,Negative
+I don't know how to demand a restitution of money,Billing,Negative
+i do not know what to do to shop several of ur item,Product Inquiry,Neutral
+I would like to request a refund,Billing,Positive
+i want assistance seeing ur avbailable payment options,Billing,Positive
+how can I call customer service?,Technical Support,Neutral
+I need help with canceling order {{Order Number}},Product Inquiry,Positive
+I am trying to speak with an operator,Technical Support,Neutral
+how can i see ur allowed payment methods,Billing,Neutral
+I don't know whar I need to do to notify of signup errors,Technical Support,Negative
+I'm trying to get th fucking invoices from {{Person Name}},Billing,Neutral
+help solving a problem with online payment,Billing,Positive
+send me bill from {{Person Name}},Billing,Neutral
+editing premium  account,Account Access,Neutral
+"I can no longer afford purchase {{Order Number}}, cancel it",Product Inquiry,Negative
+I need help to speak to a bloody human agent,Technical Support,Negative
+need assstance to file a consumer claim against your company,Technical Support,Neutral
+what do i need to do to ask for a rebate of money,Billing,Neutral
+i do not know how to check my refund current status,Billing,Neutral
+trouble modifying delivery address,Product Inquiry,Negative
+help me ask for reimbursements of my money,Billing,Positive
+"I can't pay, is it possible to report troubles with payment?",Billing,Negative
+I am waiting for a rebate of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+how could i purchase some fucking articles,Product Inquiry,Neutral
+do youhave an e-mail address to contact customer service?,Technical Support,Neutral
+file complaint against your business,Technical Support,Negative
+help me see what hours I can call customer support,Technical Support,Positive
+I  don't know what to do to correct my address,Product Inquiry,Neutral
+help me see under what circumstances can I request a refund,Billing,Positive
+clsoe {{Account Category}} account,Account Access,Neutral
+help using the standard profile,Account Access,Positive
+want assistance to see your payment modalities,Billing,Positive
+how to reset the apssword of my account,Account Access,Neutral
+I have to look for the bills from {{Person Name}},Billing,Neutral
+"I lost bill #37777, mail it to me",Billing,Negative
+I am trying to check what hours I can call customer support,Technical Support,Positive
+how do I check what hours I can call customer support?,Technical Support,Positive
+what do I have to do to change to the {{Account Category}} account?,Account Access,Neutral
+deliverids to {{Delivery Country}},Product Inquiry,Neutral
+I do not know what I have to do to talk to customer suppory,Technical Support,Neutral
+"I have to see the shipment methods, can you help me?",Product Inquiry,Positive
+I want to submit the edlivery address,Product Inquiry,Positive
+how to file a consumer claim against your company?,Technical Support,Neutral
+i have to inform of problems with signup can i get some help,Technical Support,Neutral
+want assistance to lodge a complaint against your business,Technical Support,Negative
+i need help demanding restitutions of my money,Billing,Positive
+I do not know what I need to do to buy an product,Product Inquiry,Neutral
+is it possible to report problems with sign-up?,Technical Support,Negative
+show me under which circumstances can I ask to be reimbursed,Billing,Neutral
+assistance to request rebates,Billing,Neutral
+i need help checking what payment options are accepted,Billing,Positive
+can I delete some articles from order {{Order Number}}?,Product Inquiry,Neutral
+can you help me cancel purchase {{Order Number}}?,Product Inquiry,Positive
+correcting infornation on {{Account Category}} account,Account Access,Neutral
+is it possible to place an order from {{Delivery City}}?,Product Inquiry,Neutral
+i do not know what to do to report a trouble with payment,Billing,Negative
+I don't know what I have to do to see the termination fees,Technical Support,Neutral
+i need assistance to set the new delivery address up,Product Inquiry,Neutral
+there are problems entering a secondary shipping address,Product Inquiry,Negative
+"I submitted a wrong shipping address, I awnt to change it",Product Inquiry,Negative
+help me to retrieve the access key of my user,Account Access,Positive
+I have to conract customer assistance,Technical Support,Neutral
+do uship to {{Delivery City}},Product Inquiry,Neutral
+help me to use the gold profile,Account Access,Positive
+I'm trying to see the cancellation fee,Technical Support,Neutral
+do you have an e-mail to send a review about your products?,Technical Support,Neutral
+what do i need to do to restore my account pin,Account Access,Positive
+is there an e-mail to send my feedbakc for ur products,Technical Support,Neutral
+can you help me to see when my item is going to arrive?,Product Inquiry,Positive
+show me what shipment methods I have,Product Inquiry,Neutral
+is it possible to unsubscribe from the company newsletter,Technical Support,Neutral
+I need help to see your refund policy,Billing,Positive
+I want assistace to request a compensation of my money,Billing,Positive
+want assistance canceling purchase {{Order Number}},Product Inquiry,Positive
+I am trying to edit the delivery adress,Product Inquiry,Neutral
+how can I check your reimbursement policy?,Billing,Neutral
+do you have an address to leave feedback for your services?,Technical Support,Negative
+can i send my feedback about ur services,Technical Support,Neutral
+need assistance leaving a commnet for your services,Technical Support,Neutral
+get bill fromMr. Jones,Billing,Neutral
+what are your available payment options?,Billing,Neutral
+i dont know what to do to notify of an issdue with a sign-up,Technical Support,Neutral
+how do I inform of an issue with a signup?,Technical Support,Neutral
+I need assistance to get a rebate of  my money,Billing,Neutral
+speaking with assistant,Technical Support,Neutral
+assistance shopping some of your article,Product Inquiry,Neutral
+want help to track the reimbursement,Billing,Positive
+I want to check when my item is going to arrive,Product Inquiry,Positive
+i missed a fucking product in purchase {{Order Number}},Product Inquiry,Negative
+need to see the allowed payment options can uhelp me,Billing,Neutral
+i need supports trying to modify my delivery address,Product Inquiry,Positive
+I don't know how to speak with an assistan,Technical Support,Neutral
+can you help me create a different bloody platinum account?,Account Access,Positive
+"I need to set my shipping address up, how do I do it?",Product Inquiry,Neutral
+i need help to see what hours customer support azvailable is,Technical Support,Positive
+can I get my bill from {{Person Name}}?,Billing,Neutral
+I want assistance to list your payment modalities,Billing,Positive
+I have got to check what hours customer service available is,Technical Support,Neutral
+reporting issues with payment,Billing,Neutral
+I need to see how long it takes for my parcel to arrive,Product Inquiry,Neutral
+assistance to know if there are any news on my refund,Billing,Neutral
+I want assistance to locate my bill #00108,Billing,Positive
+can you help me unsubscribe to the newsletter?,Technical Support,Positive
+I have to notify of a payment error,Billing,Negative
+how can I purchase several fucking items ?,Product Inquiry,Neutral
+updating data on {{Account Category}} account,Account Access,Neutral
+I want help speaking with an operator,Technical Support,Positive
+i wnt help swapping several items of order {{Order Number}},Product Inquiry,Positive
+I need assistance to check the current status of the rebate,Billing,Neutral
+where do i inform of payment problems,Billing,Negative
+update details on gold account,Account Access,Neutral
+where to earn several of your product?,Product Inquiry,Neutral
+need assistance with opening my {{Account Type}} account,Account Access,Neutral
+I have troubles editing my address,Product Inquiry,Negative
+can ya tell me about an address correction,Product Inquiry,Neutral
+"I have to speak to customer service , can I get some help?",Technical Support,Positive
+help to check the ETA of order {{Order Number}},Product Inquiry,Positive
+I can't create a {{Account Category}} account,Account Access,Negative
+"I need to file a reclamation, how can I do it?",Technical Support,Neutral
+there are errors setting up a damn delivery address,Product Inquiry,Negative
+help me to check when will my article arrive,Product Inquiry,Positive
+help me finding invoice #85632,Billing,Positive
+i want help to speak with customer assistance,Technical Support,Positive
+would it be possible to cancel a {{Account Category}} account?,Account Access,Negative
+"I have to see the early termination charge, can you help me?",Technical Support,Positive
+contact agent,Technical Support,Neutral
+I need help retrieving my goddamn account password,Account Access,Negative
+editing {{Account Type}} account,Account Access,Neutral
+how to cancel order {{Order Number}}?,Product Inquiry,Negative
+I'm trying to se the withdrawal fees,Technical Support,Neutral
+is it possible to unsubscribe to the company newsletter?,Technical Support,Neutral
+I want assistance to cancel purchase {{Order Number}},Product Inquiry,Negative
+change information on {{Account Category}} account,Account Access,Neutral
+i do ont know how to send fucking feedback for a service,Technical Support,Neutral
+I need to swap an item of purchase {{Order Number}},Product Inquiry,Neutral
+issue submitting the secondary delivery address,Product Inquiry,Neutral
+get money back,Billing,Neutral
+I need assistance editing the address,Product Inquiry,Neutral
+where do I report an issue with payments ?,Billing,Neutral
+i have a probelm with the password retrieval,Account Access,Neutral
+is it possible to cancel order {{Order Number}} ?,Product Inquiry,Negative
+I don't know what I need to do to see the termination fees,Technical Support,Neutral
+want help updating my address,Product Inquiry,Positive
+want assistance notifying of an error with payments,Billing,Negative
+I have got to set my secondary shipping address up,Product Inquiry,Neutral
+I am trying to unsubscribe from your company newsletter,Technical Support,Neutral
+can I check in what cases can I request the damn refunds?,Billing,Negative
+I can't find the early termination fee,Technical Support,Neutral
+I have got to contact customre support,Technical Support,Positive
+i have a question about opening pro accounts,Account Access,Neutral
+cance order {{Order Number}},Product Inquiry,Neutral
+help talking  with a live agent,Technical Support,Positive
+i have to shop several articles,Product Inquiry,Neutral
+i try to see ur reimbursement policy,Billing,Neutral
+I am trying to cancel purchaes {{Order Number}},Product Inquiry,Negative
+can you help me talking with customer assistance?,Technical Support,Positive
+I am trying to see your accepted payment methods,Billing,Positive
+"I want to earn some goddamn items, I need assistance",Product Inquiry,Negative
+I want assistance to see my invoices from {{Person Name}},Billing,Positive
+I want assistance notifying of a sign-up error,Technical Support,Negative
+I'd like to change to the standard acconut,Account Access,Positive
+shipmetns to {{Delivery City}},Product Inquiry,Neutral
+how to speak with somebody ?,Technical Support,Neutral
+how could I check purchase {{Order Number}} status?,Product Inquiry,Neutral
+I don't know how to submit a delivery address,Product Inquiry,Neutral
+how to reset my user profile key?,Account Access,Neutral
+can ya direct to me an assistant,Technical Support,Neutral
+there are errors submitting the new shipping address,Product Inquiry,Negative
+updating address,Product Inquiry,Neutral
+can ya  help me to speak with customer assistance,Technical Support,Positive
+can ya help me cancel order {{Order Number}},Product Inquiry,Positive
+i cant makr a transfer help me report a payment error,Billing,Negative
+I need help canceling order {{Order Number}},Product Inquiry,Positive
+i want help to shop some producgs,Product Inquiry,Positive
+checking bill from {{Person Name}},Billing,Neutral
+I do not know how to submit some feedback,Technical Support,Neutral
+i do not know what i have to do to chat with somebody,Technical Support,Neutral
+i do not kow how i can create a {{Account Type}} account,Account Access,Positive
+i have problems with creating  my freemium account,Account Access,Negative
+can uhelp me to locate order {{Order Number}},Product Inquiry,Neutral
+where could I see your payment modalities?,Billing,Neutral
+assistance updating the info included on my user account,Account Access,Neutral
+I need help talking with customer service,Technical Support,Positive
+where to check how long it takes for my delivery to arrive,Product Inquiry,Neutral
+"I have to check the early exit fees, help me",Technical Support,Positive
+i cannot see the eta of order {{Order Number}},Product Inquiry,Neutral
+I try to notify of errors with online payment,Billing,Negative
+i want assistance downloading the bills from {{Person Name}},Billing,Positive
+lodging reclamation against your company,Technical Support,Neutral
+I need help checking the early exit charge,Technical Support,Positive
+how do i change an item of order {{Order Number}},Product Inquiry,Neutral
+what do i need to do to report prbolems with payment,Billing,Neutral
+i need help to submit my feedback for a service,Technical Support,Positive
+"I cannot make a payment, I need help notifying of errors",Billing,Positive
+I want assistance to talk to a human agent,Technical Support,Positive
+need assistance to get the invoices from {{Person Name}},Billing,Neutral
+I have a question about a password recovery,Account Access,Neutral
+assistance to check in what cases can I ask to be refunded,Billing,Neutral
+"I have to see order {{Order Number}} status, I need assistance",Product Inquiry,Neutral
+I cannot switch to the {{Account Type}} account,Account Access,Neutral
+"I want to submit my secondary shipping address, help me",Product Inquiry,Positive
+"I paid {{Currency Symbol}}{{Refund Amount}} for this item, want help to get a rebate",Billing,Positive
+i cannot check if there are any news on the compensation,Billing,Neutral
+where do i request a reimbursement of money,Billing,Neutral
+want help lodging a customer claim against your organization,Technical Support,Positive
+show me in which situations can I ask for reimbursements,Billing,Neutral
+I don't know what to do to inform of an error with a sign-up,Technical Support,Negative
+"I havve to sign up to the newsletter, I need assistance",Technical Support,Neutral
+want assistance to download my invoice #12588,Billing,Positive
+"I am having an error signing up, can I get some help?",Technical Support,Neutral
+I need help to report a problem with a registration,Technical Support,Neutral
+help me to check your reimbursement policy,Billing,Positive
+i try to check how long itg takes for the shipment to arrive,Product Inquiry,Neutral
+there are errors setting up the new shipping address,Product Inquiry,Negative
+want help making a claim against ur organization,Technical Support,Positive
+need assistance to see how soon can I expect my article,Product Inquiry,Neutral
+"I have got to shop a damn item, how to do it?",Product Inquiry,Negative
+I have to inform of issues with a registration,Technical Support,Neutral
+correcting infornation on {{Account Type}} account,Account Access,Neutral
+do ya deoiver to {{Delivery City}},Product Inquiry,Neutral
+"I have got to see what shipping methods are there, help me",Product Inquiry,Positive
+I'm trying to get my damn bills from {{Person Name}},Billing,Negative
+will ya shwo me the eta of order {{Order Number}},Product Inquiry,Neutral
+I want to retrieve my key,Account Access,Positive
+how can i get information about the options for delivery,Product Inquiry,Neutral
+modify {{Account Category}} account,Account Access,Neutral
+where can I find information about my pro account removal?,Account Access,Neutral
+help checking your accepted payment options,Billing,Positive
+i do not know how to buy several of ur item,Product Inquiry,Neutral
+what do I have to do to lodge a complaint?,Technical Support,Negative
+can I order from {{Delivery City}}?,Product Inquiry,Neutral
+i try to rettieve my profile access key,Account Access,Neutral
+i need assistance tracking purchase {{Order Number}},Product Inquiry,Neutral
+assistance to chat with a person,Technical Support,Neutral
+"I am looking for shipping period, will you help me?",Product Inquiry,Positive
+how to see if there is anything wrong with the restitution?,Billing,Negative
+i need assistance giving a quick look at the invoice #12588,Billing,Positive
+what are the fees for canceling the contract?,Technical Support,Neutral
+is it possible to talk with customer assistance?,Technical Support,Neutral
+how to use the standard profile,Account Access,Neutral
+I do not know what I need to do to buy some items,Product Inquiry,Neutral
+help me checking the status of my newsletter subscription,Technical Support,Positive
+I do not know how to cancel purchase {{Order Number}},Product Inquiry,Negative
+I need helpto cancel order {{Order Number}},Product Inquiry,Negative
+I try to chat with an operator,Technical Support,Neutral
+help to check what hours I can call customer support,Technical Support,Positive
+"I have lost bill #37777, could you send it to me?",Billing,Negative
+is it possible to get my bill #00108?,Billing,Neutral
+help me delete my {{Account Category}} accoun,Account Access,Positive
+where to check the restitution status?,Billing,Neutral
+I have an issue editing the shipping address,Product Inquiry,Neutral
+"I have lost bill #12588, can you mail it to me?",Billing,Negative
+i have to inform of a payment issue,Billing,Neutral
+correct data on {{Account Category}} account,Account Access,Neutral
+how to unsubscribe from ur corporate newsletter,Technical Support,Neutral
+want help to make a consumer complaint against ur company,Technical Support,Positive
+how could I purchase several products?,Product Inquiry,Neutral
+I'm trying to submit a shipping address,Product Inquiry,Neutral
+I'm waiting for an goddamn restitution of {{Refund Amount}} dollars,Billing,Negative
+I have an issue editing the address,Product Inquiry,Neutral
+"I want to see your reimbursement policy, I need assistance",Billing,Positive
+I need help receiving refunds,Billing,Positive
+I do not know what todo to chat with a live agent,Technical Support,Neutral
+I am trying to check the accepted payment modalities,Billing,Positive
+I have got to check if there are any news on the restitution,Billing,Neutral
+need assistance cancelinv purchase {{Order Number}},Product Inquiry,Neutral
+need assistance changing the details on my profile,Account Access,Neutral
+where do i subscribe to ur corporate newsletter,Technical Support,Neutral
+I'm trying to set another delivery address up,Product Inquiry,Neutral
+can uhelp me leave a damn review for a service,Technical Support,Negative
+"I paid {{Currency Symbol}}{{Refund Amount}} for an item, help me receive my money back",Billing,Positive
+i have got to modify my shipping address how to do it,Product Inquiry,Neutral
+I have to update my shipping address,Product Inquiry,Neutral
+there is an issue entering my delivery address,Product Inquiry,Neutral
+need to inform o a signup error,Technical Support,Negative
+could you tell me more about creating a platinum account?,Account Access,Positive
+need help to download my invoice #37777,Billing,Positive
+help to check your damn money back guarantee,Billing,Positive
+information about opening {{Account Category}} accounts,Account Access,Neutral
+can you help me speaking to an assistant?,Technical Support,Positive
+where to change to the goddamn {{Account Type}} account?,Account Access,Negative
+I want assistance checking the cancellation penalties,Technical Support,Positive
+where can i inform of problems with online paymeny,Billing,Negative
+I want to get bill #37777,Billing,Positive
+help me to change several products of purchase {{Order Number}},Product Inquiry,Positive
+"I can't open an account, where do I report a signup issue?",Technical Support,Neutral
+there is an issue trying to change my shipping address,Product Inquiry,Neutral
+I call to check the shipment options,Product Inquiry,Neutral
+can i place an order from {{Delivery City}},Product Inquiry,Neutral
+what do I need to do to buy an item?,Product Inquiry,Neutral
+can uhelp me see the currnt status of order {{Order Number}},Product Inquiry,Neutral
+how to open a {{Account Type}} account for my fiance,Account Access,Neutral
+I want help to enter a damn secondary delivery address,Product Inquiry,Positive
+"I have to sign up to your newsletter, I need assistance",Technical Support,Neutral
+I have got to subscribe to the fucking newsletter,Technical Support,Neutral
+changing info on freemium account,Account Access,Neutral
+i want help modifying the address,Product Inquiry,Positive
+is it possible to change to the {{Account Type}} account?,Account Access,Neutral
+I am trying to check the cancellation charges,Technical Support,Negative
+help me use the freemium profile,Account Access,Positive
+assistance looking for my invoices from {{Person Name}},Billing,Neutral
+I need to report a problem with online payment,Billing,Negative
+i do not know how to cancel order {{Order Number}},Product Inquiry,Negative
+assistance seeing what shipment methods you offer,Product Inquiry,Neutral
+I do not knowwhat I need to do to get invoice #85632,Billing,Neutral
+"I have not signed up, can I open a platinum account?",Account Access,Neutral
+what do I need to do to recover the pwd of my profile?,Account Access,Neutral
+I do not know how I can leave my feedback for your services,Technical Support,Negative
+"I would like to do a purchase, can you help me?",Product Inquiry,Positive
+check current status of purchase {{Order Number}},Product Inquiry,Neutral
+editing {{Account Category}} account,Account Access,Neutral
+see order {{Order Number}} current status,Product Inquiry,Neutral
+I expect a reimbursement of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+I don't know what I need to do to speak to customer service,Technical Support,Neutral
+how do I cancel my subscription to the newsletter ?,Technical Support,Negative
+can uhelp me changing to the standard account,Account Access,Neutral
+I don't know what I need to do to contact a live agent,Technical Support,Neutral
+can ya help me to modify the delivery address,Product Inquiry,Positive
+I have got to inform of an issue with online payments,Billing,Neutral
+change info on {{Account Type}} account,Account Access,Neutral
+I have got to set a secondary delivery address up,Product Inquiry,Neutral
+where to make a consumer claim?,Technical Support,Neutral
+"someone stole my PIN, I want assistance to restore it",Account Access,Positive
+how can i notify of errors with a sign-up,Technical Support,Negative
+I want help to recover the PIN of my user profile,Account Access,Positive
+I need to check how long rimbursements take,Billing,Neutral
+i have to notify of problems with registrations,Technical Support,Negative
+modify info on {{Account Type}} account,Account Access,Neutral
+check in which cases can I ask for a refund,Billing,Neutral
+what do I need to do to change the address?,Product Inquiry,Neutral
+could you help me to open a premium account?,Account Access,Positive
+help me check ur available payment options,Billing,Positive
+check invoice #85632,Billing,Neutral
+i  have lost my account access key where can i recover it,Account Access,Negative
+help me cancelling purchase {{Order Number}},Product Inquiry,Positive
+I want assistance canceling purchyase {{Order Number}},Product Inquiry,Positive
+is it possible to see the available pyment options,Billing,Neutral
+there is a trouble setting up a delivery address,Product Inquiry,Negative
+I need assistance getting in touch with customer support,Technical Support,Positive
+help me check what hours i can call customer assistancr,Technical Support,Positive
+list the allowed payment modalities,Billing,Neutral
+I want help cancellkng purchase {{Order Number}},Product Inquiry,Positive
+I'd like to  check what hours customer support available is,Technical Support,Positive
+i wan assistance checking how soon can i expect the purchase,Product Inquiry,Neutral
+give a quick look at the invoice #12588,Billing,Neutral
+help to see when my purchase is going to arrive,Product Inquiry,Positive
+changkng to platinum account,Account Access,Neutral
+getting invoice from three purchases ago,Billing,Neutral
+I cannot submit another shipping address,Product Inquiry,Neutral
+"I don't want the freemium account, I need help to close it",Account Access,Positive
+how can i see how long it takes for the parcel to arrive,Product Inquiry,Neutral
+can you help me getting invoice #37777?,Billing,Positive
+there is a problem with my registration,Technical Support,Negative
+want assistance notifying of problems with online payment,Billing,Negative
+help me obtain a compensation of money,Billing,Positive
+i want help to see ur allowed payment modalities,Billing,Positive
+I need help retrieving my account access key,Account Access,Positive
+I need to see if there are any updates on my rebate,Billing,Neutral
+upddate order {{Order Number}},Product Inquiry,Neutral
+I don't knowhow to cancel purchase {{Order Number}},Product Inquiry,Positive
+i need help to add something to order {{Order Number}},Product Inquiry,Positive
+could I open a standard account?,Account Access,Neutral
+correct data on premium account,Account Access,Neutral
+find information about my newsletter subscription,Technical Support,Neutral
+I don't know how to see what delivery options I have,Product Inquiry,Neutral
+help me check the ETA of order {{Order Number}},Product Inquiry,Positive
+question about cancelling order {{Order Number}},Product Inquiry,Negative
+i do not know how i can see the current status of the rebate,Billing,Neutral
+I don't know what to do to sign up to your newsletter,Technical Support,Neutral
+assistance to talk to customer support,Technical Support,Positive
+i do not know how i could switch tto the standard account,Account Access,Neutral
+can you help me restore my fucking profile password?,Account Access,Positive
+i want assistance seeing the early exit charges,Technical Support,Negative
+help with creating my {{Account Type}} account,Account Access,Positive
+see the withdrawal penalties,Technical Support,Neutral
+need assistance to see your accepted payment options,Billing,Positive
+how to submit my feedback about your company?,Technical Support,Neutral
+wanna talk to a human agent,Technical Support,Neutral
+wanna leave a review about a product how to do it,Technical Support,Negative
+need help getting the invoices from {{Person Name}},Billing,Positive
+I'm calling to leave a comment about a service,Technical Support,Negative
+closing {{Account Category}} account,Account Access,Neutral
+can i order frlm {{Delivery City}},Product Inquiry,Neutral
+"I expect a goddamn compensation of {{Currency Symbol}}{{Refund Amount}}, was it processed",Billing,Negative
+I want information about updating order {{Order Number}},Product Inquiry,Positive
+i dont know what to do to locate my bill from {{Person Name}},Billing,Neutral
+acquire several of your item,Product Inquiry,Neutral
+I have got to check your refund policy,Billing,Neutral
+want help to shop a few of ur article,Product Inquiry,Positive
+what do I need to do to check your accepted payment methods?,Billing,Positive
+"I have to locate bill #12588, can you help me?",Billing,Positive
+is it possible to check in what cases can I request refunds?,Billing,Neutral
+how do I remove something from order {{Order Number}}?,Product Inquiry,Neutral
+i try to check how soon can i expect my article,Product Inquiry,Neutral
+"I can't sign up, I want help to inform of signup issues",Technical Support,Positive
+i do not know how to speak with an opeator,Technical Support,Neutral
+help touse the {{Account Category}} profile,Account Access,Positive
+can uhelp me see my reimbursement current status,Billing,Neutral
+need help checking whatt hours customer support available is,Technical Support,Positive
+"I have got to enter a new shipping address, help me",Product Inquiry,Positive
+see early exit penalties,Technical Support,Neutral
+how to check the early termination fee ?,Technical Support,Neutral
+"I ordered some products, how to cancel purchase {{Order Number}}?",Product Inquiry,Negative
+updating platinum accojnt,Account Access,Neutral
+how can I purchase several of your article?,Product Inquiry,Neutral
+could you mail me my goddamn invoices from {{Person Name}}?,Billing,Negative
+i cant retrieve my account eky,Account Access,Neutral
+create new {{Account Type}} account for daughter,Account Access,Positive
+see restitution current status,Billing,Neutral
+I am waiting for a reimburswment of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+i need help to add several product to order {{Order Number}},Product Inquiry,Positive
+I need to file a customer claim against your organizaion,Technical Support,Neutral
+I do not know how I can chat with an agent,Technical Support,Neutral
+I want help deleting something from purchase {{Order Number}},Product Inquiry,Positive
+check purchase {{Order Number}} current status,Product Inquiry,Neutral
+what do i have to do to report errors with payments,Billing,Negative
+assistance to check the ETA of the purchase {{Order Number}},Product Inquiry,Neutral
+can i see what hours customer support availabl is,Technical Support,Positive
+i want information about my fucking newsletter subscriptino,Technical Support,Positive
+how to shop a few of ur article,Product Inquiry,Neutral
+i do not know what to do to rerquest a compensation of money,Billing,Neutral
+want assistance opening a standard account,Account Access,Positive
+can you help me to see your accepted payment modalities?,Billing,Positive
+i dont know what i need to do to cancel my standard account,Account Access,Negative
+I do not know how I can buy several items,Product Inquiry,Neutral
+"I have not signed up yet, help creating a gold account",Account Access,Positive
+I am waiting for an refund of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+I do not know how to get in touch with customer assistance,Technical Support,Neutral
+I try to know if there are any updates on my restitution,Billing,Neutral
+where do I reset my user account key?,Account Access,Neutral
+I don't know what to do to get compensations of my money,Billing,Neutral
+how do i ese when will my package arrive,Product Inquiry,Neutral
+I do not know how I could write an opinion for a product,Technical Support,Neutral
+show cancellation charges,Technical Support,Negative
+are there early exit fees?,Technical Support,Neutral
+can I see the accepted payment modalities?,Billing,Positive
+i want help seeing theeta of purchase {{Order Number}},Product Inquiry,Positive
+I can't receive the damn corporate newsletter,Technical Support,Positive
+I do not know what I have to do to delete a gold account,Account Access,Neutral
+i want help acquiring an article,Product Inquiry,Positive
+"I have to list your allowed payment options, how do I do it?",Billing,Neutral
+are the charges of ur services reimbursable,Billing,Negative
+help me obtaining a reimbursement of money,Billing,Positive
+"I can't pay, where do I report errors with payment?",Billing,Negative
+i have an issue setting an different shipping address up,Product Inquiry,Neutral
+I am waiting for an restitution of {{Refund Amount}} dollars,Billing,Neutral
+how could I report problems with payment?,Billing,Negative
+checking purchase {{Order Number}} status,Product Inquiry,Neutral
+i want assistance to locatr my bill #00108,Billing,Positive
+can you help me see purchase {{Order Number}} current status?,Product Inquiry,Positive
+i have got to see how soon can i expect my delivery,Product Inquiry,Neutral
+i do not know what i have to do to ask for a rebate of money,Billing,Neutral
+want help to see ur allowedpayment modalities,Billing,Positive
+where can i unsubscribe from ur fucking  newsletter,Technical Support,Neutral
+check the withdrawal fees,Technical Support,Neutral
+need assiwtance seeing the ETA of the order {{Order Number}},Product Inquiry,Neutral
+"I can no longer afford order {{Order Number}}, cancel it",Product Inquiry,Negative
+where could I check the current status of my restitution?,Billing,Neutral
+i want help to report an error with signup,Technical Support,Positive
+I would like to list the payment modalities,Billing,Positive
+I need assistance to set up a different delivery address,Product Inquiry,Neutral
+I need help locatin purchase {{Order Number}},Product Inquiry,Positive
+howdo i use the gold account,Account Access,Neutral
+how to get my bill from {{Person Name}} ?,Billing,Neutral
+where can i enter a secondary shipping address,Product Inquiry,Neutral
+i want help leaving an opinion about ur services,Technical Support,Positive
+deleting pro account,Account Access,Neutral
+editing data on {{Account Type}} account,Account Access,Neutral
+I want help setting up another delivery address,Product Inquiry,Positive
+assistance seeing how soon can i expect the item,Product Inquiry,Neutral
+i try ot order a few of ur item,Product Inquiry,Neutral
+create {{Account Type}} account for wife,Account Access,Positive
+i want help to reset my user profile pin code,Account Access,Positive
+wanna see at what time i can reach customer assistance,Technical Support,Neutral
+is it possibe to inform of errors with payment?,Billing,Negative
+I want assistance to check how long refunds usually take,Billing,Positive
+can you help me to check how soon can I expect my item?,Product Inquiry,Positive
+I need help submitting some feedback about a product,Technical Support,Positive
+I need help to cancel purchase {{Order Number}},Product Inquiry,Positive
+i want help to check order {{Order Number}} status,Product Inquiry,Positive
+can you give me information about receiving your newsletter?,Technical Support,Neutral
+list your accepted payment options,Billing,Positive
+correcting info on {{Account Type}} account,Account Access,Neutral
+editing information on {{Account Type}} account,Account Access,Neutral
+I don't know what to do to talk with an operator,Technical Support,Neutral
+can I order from {{Delivery Country}}?,Product Inquiry,Neutral
+I do not know what to do to get the invoice #37777,Billing,Neutral
+could you tell me about shipping periods?,Product Inquiry,Neutral
+wanna see what shipment methods i can choose how do i do it,Product Inquiry,Neutral
+I do not know how to write a review about your products,Technical Support,Neutral
+download ibll #37777,Billing,Neutral
+I need assistance changing the user information,Account Access,Neutral
+I need assistance to leave feedback about your company,Technical Support,Negative
+help me see what shipping methods are there,Product Inquiry,Positive
+help me filing a reclamation against your company,Technical Support,Positive
+I have got to locate my invoice from {{Person Name}},Billing,Neutral
+ik do not know how i can notify of a sign-up problem,Technical Support,Negative
+can I change an article of purchase {{Order Number}}?,Product Inquiry,Neutral
+I want support modifying the shipping address,Product Inquiry,Positive
+I do not know what I need to do to download the bill #85632,Billing,Neutral
+I need help seeing my invoices from {{Person Name}},Billing,Positive
+I don't know how to check the early exit charge,Technical Support,Neutral
+assistance to see what payment options are allowed,Billing,Neutral
+where can I see if there is anything new on the restitution?,Billing,Neutral
+there is an issue setting up a shipping address,Product Inquiry,Neutral
+I do not know how I could check the ETA of purchase {{Order Number}},Product Inquiry,Neutral
+can i contact someone,Technical Support,Neutral
+assistance downloading my bills from {{Person Name}},Billing,Neutral
+can ya help me obtaining restitutions of my money,Billing,Positive
+where can I sign up to the newsletter?,Technical Support,Neutral
+could I see the billfrom {{Person Name}}?,Billing,Neutral
+how can I file a customer claim against your organization?,Technical Support,Neutral
+can you help me listing your allowed payment methods?,Billing,Positive
+where to get a restitution of my money,Billing,Neutral
+how do I acquire some articles?,Product Inquiry,Neutral
+i need information about my standard account deletion,Account Access,Neutral
+how to change order {{Order Number}}?,Product Inquiry,Neutral
+modify data on {{Account Category}} account,Account Access,Neutral
+"I want to see how soon can I expect my parcel, how to do it?",Product Inquiry,Positive
+help top speak with customer assistance,Technical Support,Positive
+"I need to speak with customer support, help me",Technical Support,Positive
+"my experience with your brand was bad, make a consumer claim",Technical Support,Negative
+I don't know what I need to do to contact customer service,Technical Support,Neutral
+I have issues updating the address,Product Inquiry,Neutral
+I do not know how I can list the goddamn payment methods,Billing,Negative
+inform of a problem with sign-up,Technical Support,Negative
+information about my fucking subscription to the newsletter,Technical Support,Neutral
+can ya show me at what time customer service available is,Technical Support,Neutral
+help to buy an few of your product,Product Inquiry,Positive
+could I set up a delivery address?,Product Inquiry,Neutral
+I need assistance to shop a few of your item,Product Inquiry,Neutral
+there are issues trying to update the goddamn address,Product Inquiry,Negative
+can uhelpp me filing a reclamation against ur business,Technical Support,Neutral
+help solving troubles with online payment,Billing,Positive
+assistance seeing in what cases can i request reimbursements,Billing,Neutral
+I'm trying to submit some feedback about a service,Technical Support,Neutral
+how to modify order {{Order Number}},Product Inquiry,Neutral
+help to check in which cases can i erquest my money back,Billing,Positive
+is there an address to submit an opinion for ur company,Technical Support,Neutral
+I want to report a problem with payment,Billing,Negative
+could i order feom {{Delivery City}},Product Inquiry,Neutral
+customer reclamation against your organzation,Technical Support,Neutral
+need help notifying of issueswith sign-up,Technical Support,Positive
+help unsubscribing from ur damnnewsletter,Technical Support,Positive
+can i check purchase {{Order Number}} status,Product Inquiry,Neutral
+information about the removal of a {{Account Type}} account,Account Access,Neutral
+assistance cancelling purchase {{Order Number}},Product Inquiry,Negative
+checking invoice from 4 purchases ago,Billing,Neutral
+I need to receive a refund of my money,Billing,Neutral
+I try to see when will my product arrive,Product Inquiry,Neutral
+how to check how soon can I expect my parcel?,Product Inquiry,Neutral
+I do not know what to do to remove my standard account,Account Access,Neutral
+i need help to notify of an issue with payment,Billing,Positive
+I have to check in which cases can I request refdunds,Billing,Neutral
+i need assistance checking my rebate status,Billing,Neutral
+mldifying {{Account Category}} account,Account Access,Neutral
+is it possibleto place an order from {{Delivery City}},Product Inquiry,Neutral
+help speaking to a human agent,Technical Support,Positive
+check order {{Order Number}} status,Product Inquiry,Neutral
+could you help me create a standard account for my daughter?,Account Access,Positive
+talk to assistant,Technical Support,Neutral
+I need to see in which cases can I ask for reimbursements,Billing,Neutral
+I need help to see the early exit fees,Technical Support,Positive
+i need help seeing the delivery methods,Product Inquiry,Positive
+I need helprestoring my user access key,Account Access,Neutral
+I don't know what to do to see the delivery options,Product Inquiry,Neutral
+help recovering my profile access key,Account Access,Positive
+is it possible to purchase some articles?,Product Inquiry,Neutral
+there is a problem trying to edit the address,Product Inquiry,Negative
+I'm trying to see how long it takes for my product to arrive,Product Inquiry,Neutral
+where to unsubscribe to your newsletter?,Technical Support,Neutral
+I need to list th payment methods,Billing,Neutral
+could you help me to see how soon can I expect the product?,Product Inquiry,Positive
+ya have an address to submit some feednack,Technical Support,Neutral
+"I want to switch an item of order {{Order Number}}, help me",Product Inquiry,Positive
+how do i receive the corporate newsletter,Technical Support,Neutral
+check the allowed payment options,Billing,Neutral
+how do I update my delivery address?,Product Inquiry,Neutral
+where to see at what time I can call customer support?,Technical Support,Positive
+help making a consumer claim against your organization,Technical Support,Positive
+I need assistance seeing how soon can I expect the purchase,Product Inquiry,Neutral
+y i cant set my secondary deilvery address valid up,Product Inquiry,Neutral
+can ya help me informing  of problems with online payment,Billing,Neutral
+"I need to call damn customer support, how could I do it?",Technical Support,Neutral
+I need help seeing the termination fees,Technical Support,Positive
+i have got to check the early exit pnalty,Technical Support,Neutral
+need assistance to obtain a refund of my money,Billing,Neutral
+need to change my shipping address,Product Inquiry,Neutral
+can you help me solve a problem with online payment?,Billing,Positive
+want assistance to leave an opinion about a service,Technical Support,Neutral
+I need help to check what shipping methods are available,Product Inquiry,Positive
+I don't know how I can check the withdrawal penalty,Technical Support,Negative
+I try to lodge a consumer claim against your organization,Technical Support,Neutral
+how to use the freemium profile?,Account Access,Neutral
+I expect a compensation of {{Refund Amount}} dollars,Billing,Neutral
+I don't know what I have to do to see the bill #00108,Billing,Neutral
+updating data on {{Account Type}} account,Account Access,Neutral
+could you tell me more about changing my delivery address?,Product Inquiry,Neutral
+do you have a method to submit a review for your products?,Technical Support,Neutral
+ned assistance checking ur available payment methods,Billing,Neutral
+help me shop several of your product,Product Inquiry,Positive
+submitting product review,Technical Support,Neutral
+i want assistance solving a trouble with online payment,Billing,Neutral
+check your money back policy,Billing,Neutral
+assistance to order some  of ur item,Product Inquiry,Neutral
+is there a method to send some feedback for ur products,Technical Support,Neutral
+help purchasing some bloody articles,Product Inquiry,Negative
+what do I have to do to see my invoice from {{Person Name}}?,Billing,Neutral
+help to check what methods for delivery i have,Product Inquiry,Positive
+want help to see your reimbursement policy,Billing,Positive
+wanna inform of issues with payment,Billing,Neutral
+can ya help me requesting a rebate of my money,Billing,Positive
+I am waiting for a refund of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+i want help listing ur payment options,Billing,Positive
+"I have to correct order {{Order Number}}, can you help me?",Product Inquiry,Positive
+in which situations can I ask for refunds?,Billing,Neutral
+"I have entered a wrong delivery address, help me changing it",Product Inquiry,Negative
+where to pucrhase some items,Product Inquiry,Neutral
+how can I update my bloody address?,Product Inquiry,Negative
+make customer claim against your organization,Technical Support,Neutral
+i have to cancel the company newsletter subscription help me,Technical Support,Positive
+"I have to change purchase {{Order Number}}, help me",Product Inquiry,Positive
+where could I cancel purchase {{Order Number}}?,Product Inquiry,Negative
+open another premium account for mum,Account Access,Neutral
+could I check how long it takes for my product to arrive?,Product Inquiry,Neutral
+I need assistance earning several of your product,Product Inquiry,Neutral
+"I have to cancel my subscription to the newsletter, help me",Technical Support,Positive
+help solving a goddamn error with online payments,Billing,Negative
+want help leaving a coment for ur products,Technical Support,Positive
+"I need to check the payment methods, how can I do it?",Billing,Neutral
+I'm trying to inform of an issue with payments,Billing,Neutral
+"I want to check the goddamn rebate status, how to do it?",Billing,Negative
+help me list your available payment methods,Billing,Positive
+I need help to inform of errors with online payment,Billing,Positive
+i need help to ese what hours i can reach customer support,Technical Support,Positive
+assistance to recover the key of my user profile,Account Access,Neutral
+troubles setting up a goddamn delivery address,Product Inquiry,Negative
+I need assistance to reset the pass of my profile,Account Access,Neutral
+how long till I obtain a refund of money?,Billing,Neutral
+"I lost the PIN of my user, I want help to retrieve it",Account Access,Positive
+I want assistance to check the goddamn payment methods,Billing,Negative
+wantr help to solve issues with payment,Billing,Positive
+I want assistance canceling purchase {{Order Number}},Product Inquiry,Positive
+where can I check what hours I can contact customer support?,Technical Support,Positive
+how to send some feedback about your company?,Technical Support,Neutral
+"I have got to download the invoice #85632, how can I do it?",Billing,Neutral
+I need assistance reporting a problem with a sign-up,Technical Support,Negative
+need assistance to order a few of ur item,Product Inquiry,Neutral
+show me purchase {{Order Number}} statud,Product Inquiry,Neutral
+I need help to list the accepted payment options,Billing,Positive
+I need help with cancelling order {{Order Number}},Product Inquiry,Positive
+problem with adding some articles to order {{Order Number}},Product Inquiry,Negative
+I try to notify of issues with registrations,Technical Support,Neutral
+i call to leave my feedback for ur services,Technical Support,Negative
+i have got to write an opinion,Technical Support,Neutral
+is it possible to place an order from {{Delivery City}} ?,Product Inquiry,Neutral
+correcting purchase {{Order Number}},Product Inquiry,Neutral
+could you give me information about the shipment methods?,Product Inquiry,Neutral
+I need help to receive an reimbursement of money,Billing,Positive
+i expect a rebate of {{Refund Amount}} dollars,Billing,Neutral
+i do not know what i need to do to download the bioll #12588,Billing,Neutral
+deliveries to {{Delivery City}},Product Inquiry,Neutral
+I would like to know about changing my delivery address,Product Inquiry,Positive
+i dont know what i have to do to delete my platinum account,Account Access,Neutral
+need assistance modifying my user info,Account Access,Neutral
+help me see the status of order {{Order Number}},Product Inquiry,Positive
+I don't know what I need to do to get the bill #85632,Billing,Neutral
+wanna know more about the shipping periods,Product Inquiry,Neutral
+problems setting the shipping address up,Product Inquiry,Negative
+cancel order {{Order Number}},Product Inquiry,Negative
+need help to speak to a uhman agent,Technical Support,Positive
+assistance to leave some feedback about a service,Technical Support,Negative
+where to see your available payment modalities?,Billing,Neutral
+I do not know how I can see the methods for shipping,Product Inquiry,Neutral
+I have to set my new delivery address up,Product Inquiry,Neutral
+where can I get information about a delivery address change?,Product Inquiry,Neutral
+can you help me contact osmeone?,Technical Support,Positive
+I am having an online registration error,Technical Support,Negative
+I need assistance adding several articles to order {{Order Number}},Product Inquiry,Neutral
+I try to check in which cases can I ask for my money back,Billing,Neutral
+I have problems with  an address correction,Product Inquiry,Negative
+want help to leave some feedback about your services,Technical Support,Positive
+where could I see what options for delivery I have?,Product Inquiry,Neutral
+help em checking the withdrawal fees,Technical Support,Positive
+help me restore the key of my user,Account Access,Positive
+i ahve to report problems with signup,Technical Support,Negative
+i dont know what to do to download invoice #37777,Billing,Neutral
+error setting the shipping address up,Product Inquiry,Negative
+want help to see the termination charge,Technical Support,Positive
+i have to se ur available payment methods could ya help me,Billing,Positive
+I want assistance to check hte ETA of order {{Order Number}},Product Inquiry,Positive
+can you help me see what hours I can call customer support?,Technical Support,Positive
+can I check order {{Order Number}} current status?,Product Inquiry,Neutral
+help to contact a human agent,Technical Support,Positive
+i habe a problem with my pin retrieval,Account Access,Negative
+"I chose a wrong delivery address, can you help me update it?",Product Inquiry,Negative
+i dontknow how to get the invoice #12588,Billing,Neutral
+repor sign-up problems,Technical Support,Negative
+can ya tell me about signing up to ur newsletter,Technical Support,Neutral
+where to know if there is anything new on the rebate,Billing,Neutral
+deleter a product from purchase {{Order Number}},Product Inquiry,Neutral
+assistance to submit a different shipping address,Product Inquiry,Neutral
+I need assistance correcting purchase {{Order Number}},Product Inquiry,Neutral
+how do i see what options for delivery are available,Product Inquiry,Neutral
+i need assistance to locate the bills from {{Person Name}},Billing,Neutral
+I have got to file a complaint against your company,Technical Support,Negative
+I'm trying to know if there is anything new on my refund,Billing,Neutral
+i need assistance to talk to somebody,Technical Support,Neutral
+how to check what payment options are available,Billing,Neutral
+how colud I delete something from order {{Order Number}}?,Product Inquiry,Neutral
+change to premium account,Account Access,Neutral
+can you help me shop a few of your article?,Product Inquiry,Positive
+assistance to see thd early termination fee,Technical Support,Neutral
+i need help seeing ur reimbursement policy,Billing,Positive
+i need help to see purchase {{Order Number}} status,Product Inquiry,Positive
+"you are not helpful at all, help me contacting somebody",Technical Support,Positive
+I have got to look for my bill #00108,Billing,Neutral
+open a {{Account Type}} account,Account Access,Neutral
+wana swap a damn product of order {{Order Number}} help me,Product Inquiry,Neutral
+help me retrieve my user  account pin,Account Access,Positive
+switch something of order {{Order Number}},Product Inquiry,Neutral
+i need information about delivery periods,Product Inquiry,Neutral
+i need help to see the cancellation penalty,Technical Support,Negative
+can you give me information about the PIN code reset?,Account Access,Neutral
+help to get bill #00108,Billing,Positive
+do you have an e-mai to send a review about a service?,Technical Support,Neutral
+I'm trying to get my invoice from {{Person Name}},Billing,Neutral
+help me to use the {{Account Category}} profile,Account Access,Positive
+want help to check the eta of purchase {{Order Number}},Product Inquiry,Positive
+how do i cyat with a person,Technical Support,Neutral
+I have to see the early exit fee,Technical Support,Neutral
+help with canceling purchase {{Order Number}},Product Inquiry,Positive
+I am calling to see what delivery methods you offer,Product Inquiry,Neutral
+want assistance to chat with a person,Technical Support,Positive
+eta fo order {{Order Number}},Product Inquiry,Neutral
+what is the customer service mail,Technical Support,Neutral
+delete user,Account Access,Neutral
+i have got to reset my account pwd,Account Access,Neutral
+modifying details on gold account,Account Access,Neutral
+create new bloody {{Account Type}} account,Account Access,Negative
+can you help me sending my feedback for your services?,Technical Support,Positive
+I try to submit the new delivery address,Product Inquiry,Neutral
+I need assistance with canceling purchase {{Order Number}},Product Inquiry,Neutral
+error with sign-up,Technical Support,Negative
+I want information about a forgotten PIN code,Account Access,Negative
+how to see when will my purchase arrive?,Product Inquiry,Neutral
+create new standard account for daughter,Account Access,Positive
+wanna deit order {{Order Number}},Product Inquiry,Neutral
+i want help towrite a comment for ur services,Technical Support,Positive
+I do not know how to see when will my product arrive,Product Inquiry,Neutral
+"I need to earn several items, help me",Product Inquiry,Positive
+I try to check what payment options are allowed,Billing,Neutral
+need help to lodge a complaint against your organization,Technical Support,Positive
+what do I have to do to get the bill from {{Person Name}}?,Billing,Neutral
+I want help to change purchase {{Order Number}},Product Inquiry,Positive
+I have to see the options for shipping,Product Inquiry,Neutral
+i do not know what to do to look for thebill #00108,Billing,Neutral
+can I check the bills from {{Person Name}}?,Billing,Neutral
+i need assistance to check the eta of the order {{Order Number}},Product Inquiry,Neutral
+i have a question about the cancellation of my {{Account Type}} account,Account Access,Neutral
+assistance to shop some products,Product Inquiry,Neutral
+want assistance to check how long refunds take,Billing,Positive
+where can I get information about a gold account removal?,Account Access,Neutral
+want help to check the accepted payment options,Billing,Positive
+I call to makle a customer claim against your business,Technical Support,Neutral
+need to check ur accepted payment options,Billing,Positive
+can uhelp me see what hours i can call customer service,Technical Support,Neutral
+I cannot afford order {{Order Number}},Product Inquiry,Neutral
+I am waiting for a reimburswment of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+supports editing the delivery address,Product Inquiry,Positive
+assistance to list your paymernt modalities,Billing,Neutral
+i try to restore the pwd of my user profile,Account Access,Positive
+where do I check what shipment methods are available?,Product Inquiry,Neutral
+assistance to file a reclamation against your business,Technical Support,Neutral
+I have got to get my bill from {{Person Name}},Billing,Neutral
+send me bills from {{Person Name}},Billing,Neutral
+I try to delete an product from purchase {{Order Number}},Product Inquiry,Neutral
+need help cancelling purchase {{Order Number}},Product Inquiry,Positive
+I want help contacting a person,Technical Support,Positive
+i do not know how i can report an error with signup,Technical Support,Negative
+can I see what delivery options are there?,Product Inquiry,Neutral
+there is a problem trying to modify the delivery address,Product Inquiry,Negative
+I do not know how I can speak to an agent,Technical Support,Neutral
+I want information about opening a standard account,Account Access,Positive
+assistance checking the early exit fee,Technical Support,Neutral
+want help notifying of troubles with online payments,Billing,Neutral
+contact a human agent,Technical Support,Neutral
+I expect a reimbursmeent of {{Refund Amount}} dollars,Billing,Neutral
+I need assistance to check the early termination fee,Technical Support,Neutral
+how can I lodge a consumer claim against your business?,Technical Support,Neutral
+I am waiting for a rebate of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+could you tell me more about opening platinum accounts?,Account Access,Neutral
+i dont know what to do to recover the pwd of my profile,Account Access,Neutral
+rebating  {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+wanna edit order {{Order Number}},Product Inquiry,Neutral
+closing freemium account,Account Access,Neutral
+"I want to contact customer support, can I get some help?",Technical Support,Positive
+i want assistance to solve issues with payment,Billing,Positive
+i need help to see at what time i can call  customer support,Technical Support,Positive
+what do i need to do to change to the {{Account Type}} account,Account Access,Neutral
+"I need to leave my feedback, can you help me?",Technical Support,Positive
+wanna check in what cases can i ask to be reimbursed,Billing,Neutral
+I try to see in what situations can I request to be refunded,Billing,Neutral
+"I have got to ask for a rebate, can you help me?",Billing,Positive
+need to write a review about ur company how can i do it,Technical Support,Neutral
+"I ain't registered yet, I try to open a {{Account Category}} account",Account Access,Neutral
+could i delete a item from purchase {{Order Number}},Product Inquiry,Neutral
+I need to see purchase {{Order Number}} current status,Product Inquiry,Neutral
+I want assistance to talk with an assistant,Technical Support,Positive
+is there a way to leave an opinion about a service?,Technical Support,Negative
+I'm trying to close my {{Account Category}} account,Account Access,Neutral
+what do I have to do to report signup errors?,Technical Support,Negative
+help checking the termmination fees,Technical Support,Positive
+can i place an order from {{Delivery Country}},Product Inquiry,Neutral
+how can I contact customer service?,Technical Support,Neutral
+want help to retrieve my pin,Account Access,Positive
+wanna see  the payment methods help me,Billing,Positive
+have a problem with cancelling order {{Order Number}},Product Inquiry,Negative
+help to see at what time i  can reach customer assistance,Technical Support,Positive
+I don't know what todo to purchase something,Product Inquiry,Neutral
+"I want to write a review about your products, how to do it?",Technical Support,Positive
+how to see the withdrawal fee?,Technical Support,Neutral
+help to unsubscribe to the company newsletter,Technical Support,Positive
+how do I inform of a issue with a sign-up?,Technical Support,Neutral
+"I need to unsubscribe from your newsletter, how can I do it?",Technical Support,Neutral
+I can't notify of errors with a signup,Technical Support,Positive
+I want help to ask for my money back,Billing,Positive
+I want assistance canceling order {{Order Number}},Product Inquiry,Positive
+i dont know how i can notify of a trouble with payments,Billing,Negative
+can i call customer assistance,Technical Support,Neutral
+"I have got to talk with customer service, can you help me?",Technical Support,Positive
+can I open a {{Account Type}} account?,Account Access,Neutral
+could uhelp me switch  some articles of order {{Order Number}},Product Inquiry,Neutral
+"you are not helpful, how to chat with an agent?",Technical Support,Negative
+ido not know what i need to do to get the invoice #12588,Billing,Neutral
+want help to see how soon can i expect the package,Product Inquiry,Positive
+there is an issue trying to correct the address,Product Inquiry,Neutral
+how can I check the ETA of the purchase {{Order Number}}?,Product Inquiry,Neutral
+I don't know how to contact a person,Technical Support,Neutral
+is it possible to set up a damn different delivery address?,Product Inquiry,Negative
+can you help me check how soon can I expect the product?,Product Inquiry,Positive
+need help to make a complaint against your organization,Technical Support,Positive
+can ya help me to open an platinum account,Account Access,Positive
+I need hepl to report an error with online payment,Billing,Negative
+switch to {{Account Category}} account,Account Access,Neutral
+I need assistance to report troubles with online payment,Billing,Negative
+I can't remove some articles from purchase {{Order Number}},Product Inquiry,Neutral
+can uhelp me see what hours customer support available is,Technical Support,Positive
+change to platinum acount,Account Access,Neutral
+what do i need to do to correct my shippign address,Product Inquiry,Neutral
+modify info on platinum account,Account Access,Neutral
+I need help to enter the secondaryshipping address,Product Inquiry,Positive
+can i order frrom {{Delivery Country}},Product Inquiry,Neutral
+i want assistance seing the invoice from {{Person Name}},Billing,Positive
+i dont use m freemium account I'm trying to cancel it,Account Access,Negative
+what do I need to do to download the invoice #12588?,Billing,Neutral
+how do i change a product of purchase {{Order Number}},Product Inquiry,Neutral
+I am trying to inform of payment problems,Billing,Negative
+how can I cancel the {{Account Category}} account?,Account Access,Negative
+updating data on {{Account Type}} account,Account Access,Neutral
+I have to check in which cases can I request a refund,Billing,Neutral
+"I can't pay, assistance reporting troubles with payment",Billing,Negative
+I want supports changing the shipping address,Product Inquiry,Positive
+can you help me place an order?,Product Inquiry,Positive
+i need help trying to change the address,Product Inquiry,Positive
+need assistance to subscribe to the company newsletter,Technical Support,Neutral
+I do not know what to do to earn several of yoru item,Product Inquiry,Neutral
+I need help to notify of an error with payments,Billing,Neutral
+i want help seeign when will my product arrive,Product Inquiry,Positive
+can I ordrr from {{Delivery City}}?,Product Inquiry,Neutral
+I do not know how to get the bill from {{Person Name}},Billing,Neutral
+how can i locate invoice #12588,Billing,Neutral
+updating {{Account Category}} account,Account Access,Neutral
+how do i check at what time i can call  customer service,Technical Support,Neutral
+what do I need to do to switch to the pro account?,Account Access,Neutral
+help to reset my user account pin,Account Access,Positive
+"I have got to see your refund policy, help me",Billing,Positive
+help me to create a {{Account Type}} account,Account Access,Positive
+could you help me deleting a platinum account?,Account Access,Positive
+I expect a reimbursement of {{Refund Amount}} dollars,Billing,Neutral
+I can't talk with a person,Technical Support,Neutral
+what do I have to do to retrieve my key?,Account Access,Neutral
+"I cannot afford this article, cancel order {{Order Number}}",Product Inquiry,Negative
+could i see the ETA of the purchase {{Order Number}},Product Inquiry,Neutral
+find informtaion about my forgotten pin,Account Access,Negative
+"I lost my invoice from {{Person Name}}, find it for me",Billing,Negative
+"I have got to change to the {{Account Type}} account, how to do it?",Account Access,Neutral
+download bill #00108,Billing,Neutral
+open nw pro account for daughter,Account Access,Neutral
+I expect a compensation of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+i want help to create a different damn platinum account,Account Access,Positive
+where to ese how long the delivery takes,Product Inquiry,Neutral
+"I do not want this item, I try to cancel order {{Order Number}}",Product Inquiry,Negative
+i do not know how i could see ur payment modalities,Billing,Neutral
+could I place an order from {{Delivery Country}} ?,Product Inquiry,Neutral
+do you ship  to {{Delivery Country}}?,Product Inquiry,Neutral
+assistance to get my bills from {{Person Name}},Billing,Neutral
+help me to open a gold account for my daughter,Account Access,Positive
+i do not know what to do to download the invoice #37777,Billing,Neutral
+i want assistance asking for a restitution of my money,Billing,Positive
+i have got to see the status of my newsletter subvscription,Technical Support,Neutral
+"I bought some articles, how to cancel order {{Order Number}}?",Product Inquiry,Negative
+I want help ordering a few of your product,Product Inquiry,Positive
+I have to correct my delivery address,Product Inquiry,Neutral
+how do I check the accepted payment methods?,Billing,Positive
+"I don't use my bloody pro account, how do I remove it?",Account Access,Positive
+can you help me purchasing a damn item?,Product Inquiry,Neutral
+"I have got to change to the freemium account, help me",Account Access,Positive
+"I need to see when will my product arrive, help me",Product Inquiry,Positive
+lodge consumer reclamation,Technical Support,Neutral
+I don't know how to check the early termination penalty,Technical Support,Negative
+what are the withdrawal fees?,Technical Support,Neutral
+"I need to check your reimbursement policy, help me",Billing,Positive
+where can I make a consumer claim against your company?,Technical Support,Neutral
+I want assistance informing of a trouble with payment,Billing,Negative
+how can i talk to customer assitance,Technical Support,Neutral
+i need assistance to get the invoice #85632,Billing,Neutral
+need help to modify my user information,Account Access,Positive
+i exepct a restitution of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+I need assistance seeing my invoice #37777,Billing,Neutral
+I'm waiting for a  compensation of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+I have to create a premium account for my fiance,Account Access,Positive
+need to check the withdrawal penalty will uhelp me,Technical Support,Negative
+i want assistance to leave some feedback for ur company,Technical Support,Neutral
+"I lost my bill from {{Person Name}}, will you show it to me?",Billing,Negative
+I expect a reimbursement of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+I try to restore my user profile PIN,Account Access,Positive
+help to see in what cases can i request my money back,Billing,Positive
+I want to notify of goddamn registration errors,Technical Support,Negative
+I need assistance to check the early exit penalty,Technical Support,Negative
+i want help to use the gold profile,Account Access,Positive
+see what hours I can contact customer support,Technical Support,Positive
+assistance checking how long the delivery takes,Product Inquiry,Neutral
+I do not know what I need to d to download the bill #37777,Billing,Neutral
+I try to see what hours I can reach customer assistance,Technical Support,Neutral
+can you help me to talk to somebody?,Technical Support,Positive
+I try to see how long it takes for my delivery to arrive,Product Inquiry,Neutral
+need to modify my personal data can uhelp me,Account Access,Neutral
+i want information about the removal of a standard account,Account Access,Positive
+I don't know what I have to do to chat with an operator,Technical Support,Neutral
+show me your allowed payment options,Billing,Neutral
+I want to check how long the shipping takes,Product Inquiry,Positive
+I need help to cancel purchase {{Order Number}},Product Inquiry,Positive
+could you help me  enter another shipping address?,Product Inquiry,Positive
+I have to notify of issues with a signup,Technical Support,Neutral
+I have got to check what delivery methods are there,Product Inquiry,Neutral
+i try to inform of issues with payment,Billing,Neutral
+i cant switch several aritcles of purchase {{Order Number}},Product Inquiry,Neutral
+"I want to write a review about your company, how do I do it?",Technical Support,Positive
+i do not know what to do to send feedback for a product,Technical Support,Neutral
+where do I file a claim?,Technical Support,Neutral
+can i add some products to purchase {{Order Number}},Product Inquiry,Neutral
+I expect a rebate of {{Refund Amount}} dollars,Billing,Neutral
+i have to see the status of purchase {{Order Number}} how do i do it,Product Inquiry,Neutral
+create pro account,Account Access,Positive
+"I cannot open an account, how to inform of sign-up errors?",Technical Support,Negative
+"I have to unsubscribe to the company newsletter, I need help",Technical Support,Positive
+getting invoice from January,Billing,Neutral
+show me in which situations can I ask to be refunded,Billing,Neutral
+i need help to chat with an human agent,Technical Support,Positive
+I want help to check your bloody available payment methods,Billing,Neutral
+i have to leave feedback for ur company,Technical Support,Negative
+I want help making a ucstomer claim against your company,Technical Support,Positive
+"I have got to edit my damn user, could I get some help?",Account Access,Neutral
+i have got to se how long the shipment takes how to do it,Product Inquiry,Neutral
+seebills from {{Person Name}},Billing,Neutral
+track order {{Order Number}},Product Inquiry,Neutral
+I have problems submitting a different shipping address,Product Inquiry,Negative
+need assistance to cancel order {{Order Number}},Product Inquiry,Negative
+I expect an reimbursement of {{Currency Symbol}}{{Refund Amount}},Billing,Neutral
+add product to purchase {{Order Number}},Product Inquiry,Neutral
+can ya help me checking the withrawal fee,Technical Support,Positive
+i dont know how i could see when my shipment is gonna arrive,Product Inquiry,Neutral
+would it be possible to check the shipping methods?,Product Inquiry,Neutral
+why I can't set up my new shipping address valid,Product Inquiry,Neutral
+i dont khow what i need to do to change to the gold account,Account Access,Neutral
+i need help checking the termination fee,Technical Support,Positive
+could I check at what time I can call customer service?,Technical Support,Neutral
+want help making an customer claim against your business,Technical Support,Positive
+help to use the premium profile,Account Access,Positive
+problem with cancelling purchase {{Order Number}},Product Inquiry,Negative
+could uhelp me to check the early exit fee,Technical Support,Neutral
+I need help to speak to somebody,Technical Support,Positive
+where to check what payment options are accepted?,Billing,Positive
+I'm looking for information about creating platinum accounts,Account Access,Positive
+how to check whatg hours I can reach customer support?,Technical Support,Positive
+help to see in which cases can i request my money back,Billing,Positive
+assistance to use the {{Account Category}} profile,Account Access,Neutral
+I want help cancelling purchase {{Order Number}},Product Inquiry,Positive
+seein invoices from {{Person Name}},Billing,Neutral
+i dont knoq how i can report errors with payments,Billing,Negative
+I have a queston about the payment,Billing,Neutral
+get bills from {{Person Name}},Billing,Neutral
+"I have to see the ETA of the order {{Order Number}}, how to do it?",Product Inquiry,Neutral
+updating data on {{Account Category}} account,Account Access,Neutral
+how can i tfack purchase {{Order Number}},Product Inquiry,Neutral
+how to talk with customer service?,Technical Support,Neutral
+help using the {{Account Type}} account,Account Access,Positive
+need to check what shipping options are available,Product Inquiry,Neutral
+help me seeing in which situations can I request a refund,Billing,Positive
+i want help leaving a comment,Technical Support,Positive
+canceling order {{Order Number}},Product Inquiry,Neutral
+is there a section to leave an opinion about a service?,Technical Support,Negative
+i try to lodge a cliam,Technical Support,Neutral
+updateorder {{Order Number}},Product Inquiry,Neutral
+assistance ordering an article,Product Inquiry,Neutral
+"I would like to report errors with sign-up, can you help me?",Technical Support,Positive
+I am waiting for a restitution of {{Refund Amount}} dollars,Billing,Neutral
+help me seeing in what cases can I ask for refunds,Billing,Positive
+i want assistance to download the bill from {{Person Name}},Billing,Positive
+i have a question about the cancellation  of my {{Account Type}} account,Account Access,Neutral
+I want help to check what hours I can reach customer service,Technical Support,Positive
+"I want to list the available payment modalities, help me",Billing,Positive
+find information about opening {{Account Category}} accounts,Account Access,Neutral
+check what hours i can get in touch with customer service,Technical Support,Neutral
+have problems with a shipping address update,Product Inquiry,Negative
+where do I inform of an issue with a signup?,Technical Support,Neutral
+assistance to purchase a few of your product,Product Inquiry,Neutral
+can ya help me to change to the gold account,Account Access,Positive
+assistance to leave a comment for a service,Technical Support,Negative
+help me informing of an issue with payment,Billing,Positive
+help filing a reclamation against your business,Technical Support,Positive
+can I check how soon can I expect the parcel?,Product Inquiry,Neutral

@@ -1,0 +1,101 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+--- Phase 1: Data Loading ---
+Dataset not found. Downloading real-world bitext dataset from Hugging Face...
+Mapping sentiments...
+Downloaded and mapped 2000 real-world tickets to data/tickets.csv
+
+--- Phase 2: Linguistic Preprocessing ---
+Starting preprocessing...
+
+--- Linguistic Feature Extraction (Sample) ---
+Original Text: I can't talk with  a human agent
+Entities (NER): []
+POS Tags (first 5): [('I', 'PRON'), ('ca', 'AUX'), ("n't", 'PART'), ('talk', 'VERB'), ('with', 'ADP')]
+
+Original Text: I have got to locate hte bills from {{Person Name}}
+Entities (NER): [('hte', 'ORG')]
+POS Tags (first 5): [('I', 'PRON'), ('have', 'AUX'), ('got', 'VERB'), ('to', 'PART'), ('locate', 'VERB')]
+
+Original Text: I cannot pay, help me to inform of a problem with payments
+Entities (NER): []
+POS Tags (first 5): [('I', 'PRON'), ('can', 'AUX'), ('not', 'PART'), ('pay', 'VERB'), (',', 'PUNCT')]
+
+Preprocessing completed.
+
+--- Phase 3: Track A (Baseline ML) ---
+Preparing Track A Baseline...
+Training Baseline Model (Random Forest)...
+Predicting on test set...
+
+========================================
+Evaluation for Baseline RF
+========================================
+Macro F1-Score: 0.9778
+Micro F1-Score: 0.9775
+
+Classification Report:
+                   precision    recall  f1-score   support
+
+   Account Access       0.99      0.97      0.98        73
+          Billing       1.00      0.96      0.98       102
+  Product Inquiry       0.98      0.99      0.99       113
+Technical Support       0.95      0.98      0.96       112
+
+         accuracy                           0.98       400
+        macro avg       0.98      0.98      0.98       400
+     weighted avg       0.98      0.98      0.98       400
+
+Saved confusion matrix plot to results/confusion_matrix_baseline_rf.png
+
+--- Model Explainability ---
+Top 10 Most Important Words/N-grams:
+        word  importance
+     account    0.068172
+     payment    0.041522
+       order    0.034575
+     address    0.032858
+      refund    0.028620
+order number    0.023458
+    delivery    0.021684
+      number    0.021498
+    customer    0.020439
+        bill    0.019305
+Baseline model saved to models/baseline.pkl
+
+--- Phase 4: Track B (Deep Learning) ---
+Preparing Track B: PyTorch Bi-LSTM...
+Training Deep Learning Model with Early Stopping...
+Epoch 1/15 | Train Loss: 1.2678 | Val Loss: 0.9566
+Epoch 2/15 | Train Loss: 0.6376 | Val Loss: 0.2504
+Epoch 3/15 | Train Loss: 0.2122 | Val Loss: 0.0702
+Epoch 4/15 | Train Loss: 0.1074 | Val Loss: 0.0441
+Epoch 5/15 | Train Loss: 0.0649 | Val Loss: 0.0297
+Epoch 6/15 | Train Loss: 0.0506 | Val Loss: 0.0259
+Epoch 7/15 | Train Loss: 0.0389 | Val Loss: 0.0245
+Epoch 8/15 | Train Loss: 0.0243 | Val Loss: 0.0190
+Epoch 9/15 | Train Loss: 0.0363 | Val Loss: 0.0129
+Epoch 10/15 | Train Loss: 0.0204 | Val Loss: 0.0177
+Epoch 11/15 | Train Loss: 0.0152 | Val Loss: 0.0162
+Early stopping triggered after 11 epochs!
+
+========================================
+Evaluation for Bi LSTM
+========================================
+Macro F1-Score: 0.9833
+Micro F1-Score: 0.9833
+
+Classification Report:
+                   precision    recall  f1-score   support
+
+   Account Access       1.00      0.98      0.99        55
+          Billing       0.99      0.96      0.97        69
+  Product Inquiry       0.98      1.00      0.99        91
+Technical Support       0.98      0.99      0.98        85
+
+         accuracy                           0.98       300
+        macro avg       0.99      0.98      0.98       300
+     weighted avg       0.98      0.98      0.98       300
+
+Saved confusion matrix plot to results/confusion_matrix_bi_lstm.png
+PyTorch model saved to models/bilstm.pt

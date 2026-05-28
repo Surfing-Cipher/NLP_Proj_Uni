@@ -92,10 +92,52 @@ def generate_synthetic_data(num_samples=500):
     return df
 
 def load_data(filepath='data/tickets.csv'):
-    """Loads the dataset. Generates it if it doesn't exist."""
+    """Loads the dataset. Downloads real-world data if it doesn't exist."""
     if not os.path.exists(filepath):
-        print("Dataset not found. Generating synthetic dataset...")
-        return generate_synthetic_data()
+        print("Dataset not found. Downloading real-world bitext dataset from Hugging Face...")
+        try:
+            from datasets import load_dataset
+            import nltk
+            from nltk.sentiment.vader import SentimentIntensityAnalyzer
+            
+            dataset = load_dataset("bitext/Bitext-customer-support-llm-chatbot-training-dataset", split="train")
+            df = dataset.to_pandas()
+            
+            def map_intent(intent):
+                intent_lower = str(intent).lower()
+                if 'account' in intent_lower or 'password' in intent_lower: return 'Account Access'
+                elif 'payment' in intent_lower or 'invoice' in intent_lower or 'refund' in intent_lower: return 'Billing'
+                elif 'order' in intent_lower or 'shipping' in intent_lower or 'delivery' in intent_lower: return 'Product Inquiry'
+                else: return 'Technical Support'
+                    
+            df['category'] = df['intent'].apply(map_intent)
+            df['text'] = df['instruction']
+            
+            # Map sentiment using VADER
+            try:
+                sia = SentimentIntensityAnalyzer()
+            except LookupError:
+                nltk.download('vader_lexicon')
+                sia = SentimentIntensityAnalyzer()
+                
+            def get_sentiment(text):
+                comp = sia.polarity_scores(text)['compound']
+                if comp >= 0.05: return 'Positive'
+                elif comp <= -0.05: return 'Negative'
+                return 'Neutral'
+                
+            print("Mapping sentiments...")
+            df['sentiment'] = df['text'].apply(get_sentiment)
+            
+            # Subsample for faster training and balancing
+            df = df[['text', 'category', 'sentiment']].sample(2000, random_state=42)
+            os.makedirs('data', exist_ok=True)
+            df.to_csv(filepath, index=False)
+            print(f"Downloaded and mapped {len(df)} real-world tickets to {filepath}")
+            return df
+        except Exception as e:
+            print(f"Failed to download from HF: {e}. Falling back to synthetic...")
+            return generate_synthetic_data()
     return pd.read_csv(filepath)
 
 if __name__ == "__main__":
